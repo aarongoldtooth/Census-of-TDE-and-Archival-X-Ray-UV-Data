@@ -1,3 +1,4 @@
-
-.ipynb_checkpoints/README-checkpoint.md
-.ipynb_checkpoints/LICENSE-checkpoint
+*.ipynb_checkpoints/*
+*.DS_Store
+__pycache__/*
+*.pyc
