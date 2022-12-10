@@ -65,7 +65,7 @@ Note: TDE Timelines.ipynb/TDETimelineMaker.py is not dependent on other .ipynp/.
 ---
 ## Contributing
 
-Issue Tracker: 
+Issue Tracker: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/issues
 
 ---
 ## License
