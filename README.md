@@ -69,7 +69,7 @@ Issue Tracker: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ra
 
 ---
 ## License
-MIT License
+MIT License: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/blob/main/LICENSE
 
 ---
 ## Citation
