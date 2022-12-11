@@ -1,4 +1,4 @@
-# TDE_research
+# Census of TDE and Archival X-Ray/UV Data
 Repository for research documents used in "A Census of Archival X-ray Spectra for Modeling Tidal Disruption Events"
 
 The documentation here is used to create a catalog of known Tidal Disruption Events (TDEs) as well as figures used to decribe the dataset therein.
