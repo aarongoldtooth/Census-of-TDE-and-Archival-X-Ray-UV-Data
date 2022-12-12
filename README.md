@@ -7,32 +7,40 @@ The documentation here is used to create a catalog of known Tidal Disruption Eve
 ## Contents:
 
 1. TDE input files
-   - TDE List.tsv
-      - contains TDE name, TDE host name, and TDE discovery date information
-   - TDE Observations Folder
+   - TDE_List.tsv
+      - contains TDE name, TDE host name, and TDE discovery date information.
+   - TDE Observations folder
       - contains individual TDE subfolders each with instances (if available) of XMM-Netwon, Chandra, and Swift observational information.
-   - TDE Catalog.csv
-      - .csv version of full TDE catalog
+   - TDE_Output_Data.tsv
+      - contains observational data extracted from the TDE Observations folders.
+   - priority_tde_indicies.txt
+      - contains the indecies for priority TDE candidates.
+   - Full New TDE Catalog (Published)
+      - .tsv version of our full new TDE catalog.
+   
   
 3. TDE code files (Available in .ipynb and .py formats)
    - TDE Catalog.ipynb/TDECatalogMaker.py
-      - input: TDE List.tsv, TDE Observations Folder
-      - returns: TDE Output Data.csv
+      - input: TDE_List.tsv, TDE Observations folder
+      - returns: TDE_Output_Data.csv
    - Priority TDE Filter.ipynb/PriorityTDEFilter.py
-      - input: TDE List.tsv, TDE Output Data.csv
+      - input: TDE_List.tsv, TDE_Output_Data.csv
       - returns: priority_tde_indicies.txt
    - TDE Timelines.ipynb/TDETimelineMaker.py
-      - input: TDE Observations Folder
-      - output: TDE Timeline Plots.pdf
+      - input: TDE Observations folder
+      - output: TDE_Timeline_Plots.pdf
    - TDE Exposure Time Redshift Plots.ipynb/TDERedshiftExpTimePlotter.py
-      - input: TDE Catalog.csv, priority_tde_indicies.txt
+      - input: TDE_Output_Data.csv, priority_tde_indicies.txt
       - output: tde_exp_times_vs_redshift.pdf
   
 3. TDE code output files
-   - TDE Output Data.csv
+   - TDE_Output_Data.csv
    - priority_tde_indicies.txt
    - TDE Timeline Plots.pdf
    - tde_exp_times_vs_redshift.pdf
+   
+4. Full New TDE Catalog (Published)
+    -  Excel version of our full new TDE catalog. Also contains information on the priority TDEs in a seperate tab.
 
 ---
 ## Running Code
@@ -51,13 +59,13 @@ In order to run the .ipynp/.py files, first ensure that the TDE input files (see
 To ensure proper file handling and processing due to prior output file dependencies, the following .ipynp/.py files below should be run in the following order:
 
 1. TDE Catalog.ipynb/TDECatalogMaker.py
-   - input: TDE List.tsv, TDE Observations Folder
+   - input: TDE_List.tsv, TDE Observations folder
    - returns: TDE Output Data.csv
 2. Priority TDE Filter.ipynb/PriorityTDEFilter.py
-   - input: TDE List.tsv, TDE Output Data.csv
+   - input: TDE_List.tsv, TDE_Output_Data.csv
    - returns: priority_tde_indicies.txt
 3. TDE Exposure Time Redshift Plots.ipynb/TDERedshiftExpTimePlotter.py
-   - input: TDE Catalog.csv, priority_tde_indicies.txt
+   - input: Full New TDE Catalog (published).tsv, priority_tde_indicies.txt
    - output: tde_exp_times_vs_redshift.pdf
 
 Note: TDE Timelines.ipynb/TDETimelineMaker.py is not dependent on other .ipynp/.py output files/information and can be safely run independently of the above files.
@@ -65,11 +73,15 @@ Note: TDE Timelines.ipynb/TDETimelineMaker.py is not dependent on other .ipynp/.
 ---
 ## Contributing
 
-Issue Tracker: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/issues
+Issue Tracker: 
 
 ---
 ## License
+<<<<<<< Updated upstream
 MIT License: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/blob/main/LICENSE
+=======
+
+>>>>>>> Stashed changes
 
 ---
 ## Citation
@@ -79,4 +91,4 @@ Paper DOI:
 
 ---
 ## Contact
-Aaron Goldtooth [orcid](https://orcid.org/0000-0001-9695-4121) 
+Aaron Goldtooth [orcid](https://orcid.org/0000-0001-9695-4121)
