@@ -39,7 +39,7 @@ The documentation here is used to create a catalog of known Tidal Disruption Eve
    - TDE Timeline Plots.pdf
    - tde_exp_times_vs_redshift.pdf
    
-4. Full New TDE Catalog (Published)
+4. Full New TDE Catalog (Published).xl
     -  Excel version of our full new TDE catalog. Also contains information on the priority TDEs in a seperate tab.
 
 ---
@@ -73,15 +73,12 @@ Note: TDE Timelines.ipynb/TDETimelineMaker.py is not dependent on other .ipynp/.
 ---
 ## Contributing
 
-Issue Tracker: 
+Issue Tracker: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/issues
 
 ---
 ## License
-<<<<<<< Updated upstream
-MIT License: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/blob/main/LICENSE
-=======
 
->>>>>>> Stashed changes
+MIT License: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-UV-Data/blob/main/LICENSE
 
 ---
 ## Citation
