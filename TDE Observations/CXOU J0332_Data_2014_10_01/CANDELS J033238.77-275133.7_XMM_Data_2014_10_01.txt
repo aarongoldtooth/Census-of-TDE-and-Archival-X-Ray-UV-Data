@@ -1,0 +1,64 @@
+obsid     |status  |name             |ra         |dec        |time               |duration|pi_lname  |pi_fname|public_date|data_in_heasarc|_offset
+0827220901|archived|W-CDS-S          |03 33 32.12|-28 00 18.2|2019-08-06T13:18:02|   35300|Brandt    |William | 2019-08-21|Y              |14.6699
+0604960901|archived|CDFS             |03 32 22.60|-27 50 34.7|2010-02-11T16:36:42|  125344|Comastri  |Andrea  | 2011-03-09|Y              | 3.7091
+0604960801|archived|CDFS             | 03 32 25.0|-27 50 31.0|2010-02-05T17:12:18|  121087|Comastri  |Andrea  | 2011-03-05|Y              | 3.2200
+0555781001|archived|CDFS             |03 32 22.70|-27 50 25.0|2009-01-22T18:39:27|  125813|Comastri  |Andrea  | 2009-01-26|Y              | 3.7340
+0555782201|archived|CDFS             |03 32 22.70|-27 50 25.0|2009-01-22T15:58:10|    8430|Comastri  |Andrea  | 2009-01-26|Y              | 3.7340
+0555782301|archived|CDFS             |03 32 22.70|-27 50 25.0|2009-01-24T18:34:13|  125714|Comastri  |Andrea  | 2009-01-26|Y              | 3.7340
+0555782401|archived|CDFS             |03 32 22.70|-27 50 25.0|2009-01-24T15:50:13|    8529|Comastri  |Andrea  | 2009-01-26|Y              | 3.7340
+0555780701|archived|CDFS             | 03 32 25.0|-27 50 25.0|2009-01-12T18:59:31|  118415|Comastri  |Andrea  | 2009-01-26|Y              | 3.2537
+0555781901|archived|CDFS             | 03 32 25.0|-27 50 25.0|2009-01-12T16:37:31|    7025|Comastri  |Andrea  | 2009-01-26|Y              | 3.2537
+0604961001|archived|CDFS             |03 32 22.70|-27 49 55.0|2010-02-13T16:27:56|  122515|Comastri  |Andrea  | 2011-03-22|Y              | 3.9164
+0555782101|archived|CDFS             |03 32 22.70|-27 49 55.0|2009-01-18T16:13:20|    6237|Comastri  |Andrea  | 2009-01-26|Y              | 3.9164
+0604961801|archived|CDFS             |03 32 22.70|-27 49 55.0|2010-02-17T15:59:48|  125042|Comastri  |Andrea  | 2011-03-22|Y              | 3.9164
+0555780901|archived|CDFS             |03 32 22.70|-27 49 55.0|2009-01-18T18:16:08|  121518|Comastri  |Andrea  | 2009-01-26|Y              | 3.9164
+0555780601|archived|CDFS             | 03 32 25.0|-27 49 55.0|2009-01-10T19:11:41|  118413|Comastri  |Andrea  | 2009-01-26|Y              | 3.4616
+0604960601|archived|CDFS             | 03 32 25.0|-27 49 55.0|2010-01-26T17:48:13|  125212|Comastri  |Andrea  | 2011-03-01|Y              | 3.4616
+0555781801|archived|CDFS             | 03 32 25.0|-27 49 55.0|2009-01-10T16:27:51|    8200|Comastri  |Andrea  | 2009-01-26|Y              | 3.4620
+0555782001|archived|CDFS             |03 32 22.70|-27 49 25.0|2009-01-16T16:21:14|    6237|Comastri  |Andrea  | 2009-01-26|Y              | 4.1517
+0604960701|archived|CDFS             |03 32 22.70|-27 49 25.0|2010-01-12T18:39:40|  120819|Comastri  |Andrea  | 2011-02-04|Y              | 4.1517
+0555780801|archived|CDFS             |03 32 22.70|-27 49 25.0|2009-01-16T18:24:02|  120919|Comastri  |Andrea  | 2009-01-26|Y              | 4.1517
+0555780501|archived|CDFS             | 03 32 25.0|-27 49 25.0|2009-01-06T20:57:27|  113004|Comastri  |Andrea  | 2009-01-26|Y              | 3.7257
+0604961301|archived|CDFS             | 03 32 25.0|-27 49 25.0|2010-01-19T22:44:43|   21920|Comastri  |Andrea  | 2011-03-22|Y              | 3.7257
+0604960501|archived|CDFS             | 03 32 25.0|-27 49 25.0|2010-01-18T18:13:38|   46983|Comastri  |Andrea  | 2011-03-22|Y              | 3.7257
+0555781701|archived|CDFS             | 03 32 25.0|-27 49 25.0|2009-01-06T17:02:58|    6911|Comastri  |Andrea  | 2009-01-26|Y              | 3.7257
+0604961201|archived|CDFS             |03 32 22.30|-27 48 52.3|2010-01-08T18:45:45|  120718|Comastri  |Andrea  | 2011-02-23|Y              | 4.5286
+0604961101|archived|CDFS             | 03 32 25.0|-27 48 52.3|2010-01-04T18:54:02|  120817|Comastri  |Andrea  | 2011-01-28|Y              | 4.0640
+0108060601|archived|AXAF Ultra Deep F| 03 32 28.0|-27 48 50.0|2002-01-13T13:48:44|   65318|Jacqueline|Bergeron| 2003-05-17|Y              | 3.6234
+0108061701|archived|AXAF Ultra Deep F|03 32 26.70|-27 48 40.0|2002-01-14T16:49:21|    3122|Jacqueline|Bergeron| 2003-05-17|Y              | 3.9390
+0108060701|archived|AXAF Ultra Deep F|03 32 26.70|-27 48 40.0|2002-01-14T17:47:17|   94021|Jacqueline|Bergeron| 2003-05-17|Y              | 3.9390
+0108060501|archived|AXAF Ultra Deep F|03 32 29.30|-27 48 40.0|2001-07-27T23:42:55|   64267|Jacqueline|Bergeron| 2003-05-17|Y              | 3.5745
+0108061801|archived|AXAF Ultra Deep F| 03 32 28.0|-27 48 30.0|2002-01-16T17:24:02|   63018|Jacqueline|Bergeron| 2003-05-17|Y              | 3.8805
+0108062001|archived|AXAF Ultra Deep F| 03 32 28.0|-27 48 30.0|2002-01-16T16:26:50|    3321|Jacqueline|Bergeron| 2003-05-17|Y              | 3.8805
+0108062201|archived|AXAF Ultra Deep F|03 32 29.30|-27 48 20.0|2002-01-20T16:14:36|    3118|Jacqueline|Bergeron| 2003-05-17|Y              | 3.8493
+0108062101|archived|AXAF Ultra Deep F|03 32 29.30|-27 48 20.0|2002-01-20T17:08:24|   62119|Jacqueline|Bergeron| 2003-05-17|Y              | 3.8493
+0108061601|archived|AXAF Ultra Deep F|03 32 26.70|-27 48 20.0|2001-07-27T02:03:20|    9697|Jacqueline|Bergeron| 2003-05-17|Y              | 4.1904
+0108060401|archived|AXAF Ultra Deep F|03 32 26.70|-27 48 20.0|2001-07-27T09:03:09|   49906|Jacqueline|Bergeron| 2003-05-17|Y              | 4.1904
+0108062301|archived|AXAF Ultra Deep F| 03 32 28.0|-27 48 10.0|2002-01-23T00:23:50|   88620|Jacqueline|Bergeron| 2003-05-17|Y              | 4.1489
+0108061901|archived|AXAF Ultra Deep F| 03 32 28.0|-27 48 10.0|2002-01-17T16:38:43|   54218|Jacqueline|Bergeron| 2003-05-17|Y              | 4.1489
+0604960301|archived|CDFS             |03 32 42.30|-27 46 09.0|2009-07-05T08:07:59|  122302|Comastri  |Andrea  | 2010-08-17|Y              | 5.4680
+0604960401|archived|CDFS             | 03 32 40.0|-27 46 07.0|2009-07-29T04:07:27|  133915|Comastri  |Andrea  | 2010-08-19|Y              | 5.4526
+0604960201|archived|CDFS             | 03 32 40.0|-27 45 35.0|2009-07-17T07:59:05|  121094|Comastri  |Andrea  | 2010-08-03|Y              | 5.9854
+0555780301|archived|CDFS             | 03 32 40.0|-27 45 35.0|2008-07-09T07:55:06|  123811|Comastri  |Andrea  | 2008-07-12|Y              | 5.9854
+0555781501|archived|CDFS             | 03 32 40.0|-27 45 35.0|2008-07-10T18:36:43|    2371|Comastri  |Andrea  | 2008-07-12|Y              | 5.9854
+0555781201|archived|CDFS             |03 32 42.30|-27 45 35.0|2008-07-08T18:44:02|    2618|Comastri  |Andrea  | 2008-07-12|Y              | 6.0298
+0604960101|archived|CDFS             |03 32 42.30|-27 45 35.0|2009-07-27T04:00:26|  129439|Comastri  |Andrea  | 2010-08-17|Y              | 6.0298
+0555780201|archived|CDFS             |03 32 42.30|-27 45 35.0|2008-07-07T05:22:24|  133416|Comastri  |Andrea  | 2008-07-12|Y              | 6.0298
+0555781601|archived|CDFS             | 03 32 40.0|-27 45 05.0|2008-07-12T18:29:12|    2333|Comastri  |Andrea  | 2008-07-12|Y              | 6.4847
+0555780401|archived|CDFS             | 03 32 40.0|-27 45 05.0|2008-07-11T08:01:48|  122843|Comastri  |Andrea  | 2008-07-12|Y              | 6.4847
+0555781101|archived|CDFS             |03 32 42.30|-27 45 05.0|2008-07-06T18:40:00|    2532|Comastri  |Andrea  | 2008-07-12|Y              | 6.5257
+0555780101|archived|CDFS             |03 32 42.30|-27 45 05.0|2008-07-05T05:22:38|  133118|Comastri  |Andrea  | 2008-07-12|Y              | 6.5257
+
+Number of rows:    49
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position CANDELS J033238.77-275133.7 corresponds to J2000 decimal coordinates:53.161575 -27.859375
+----

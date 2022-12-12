@@ -1,0 +1,16 @@
+obsid|status  |name    |ra         |dec       |time               |detector|grating|exposure|type|pi    |public_date|_offset
+ 9556|archived|NGC 3599|11 15 26.90|18 06 37.0|2008-01-26T07:00:57|ACIS-S  |NONE   |  20160.|GO  |Esquej| 2009-01-28| 0.0148
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position NGC 3599 corresponds to J2000 decimal coordinates:168.862315 18.110386
+----

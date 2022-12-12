@@ -1,0 +1,18 @@
+name              |obsid      |ra         |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+SDSSJ134244+053056|00090102003|13 42 35.62|05 29 14.9|2009-05-20T15:27:21|2016-02-18T00:00:00|  3279.52800|   3252.76900|  3344.00000|  2009-05-31| 2.7638
+SDSSJ134244+053056|00090102001|13 42 35.98|05 29 39.5|2009-05-15T11:47:59|2016-02-17T00:00:00|  6762.67300|   5962.68400|  6899.00000|  2009-05-26| 2.4567
+SDSSJ134244+053056|00090102002|13 42 35.13|05 30 16.1|2009-05-17T00:40:58|2016-02-17T00:00:00|  6624.23100|   6490.81000|  5579.00000|  2009-05-28| 2.4053
+
+Number of rows:    3
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position SDSS J134244.41+053056.1 corresponds to J2000 decimal coordinates:205.685067 5.515591
+----

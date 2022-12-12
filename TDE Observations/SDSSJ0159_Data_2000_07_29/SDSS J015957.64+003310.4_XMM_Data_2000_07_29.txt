@@ -1,0 +1,16 @@
+obsid     |status  |name    |ra         |dec       |time               |duration|pi_lname  |pi_fname|public_date|data_in_heasarc|_offset
+0101640201|archived|Mrk 1014|01 59 50.20|00 23 41.0|2000-07-29T20:40:09|   14769|Aschenbach|Bernd   | 2002-05-03|Y              | 9.6760
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J015957.64+003310.4 corresponds to J2000 decimal coordinates:29.99 0.553014
+----

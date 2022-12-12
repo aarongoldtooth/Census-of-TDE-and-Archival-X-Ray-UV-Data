@@ -1,0 +1,28 @@
+obsid     |status   |name       |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0694651201|archived |ASASSN-14li|12 48 15.23|17 46 26.2|2014-12-06T23:09:55|   23000|Levan   |Andrew  | 2016-07-22|Y              | 0.0044
+0694651401|archived |ASASSN-14li|12 48 15.23|17 46 26.2|2015-01-01T21:12:25|   24800|Levan   |Andrew  | 2016-07-22|Y              | 0.0044
+0694651501|archived |ASASSN-14li|12 48 15.23|17 46 26.2|2015-07-10T05:38:22|   23500|Levan   |Andrew  | 2016-07-22|Y              | 0.0044
+0722480201|archived |ASASSN-14li|12 48 15.23|17 46 26.2|2014-12-08T12:35:35|   94999|Miller  |Jon     | 2016-01-06|Y              | 0.0044
+0770980101|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2015-12-10T11:19:16|   96500|Maksym  |Peter   | 2017-01-24|Y              | 0.0094
+0770980501|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2016-01-12T03:57:25|   10000|Maksym  |Peter   | 2017-01-24|Y              | 0.0094
+0770980601|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2016-06-04T23:11:01|   14500|Maksym  |Peter   | 2017-12-20|Y              | 0.0094
+0770980701|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2016-12-04T14:07:18|   10800|Maksym  |Peter   | 2017-12-20|Y              | 0.0094
+0770980801|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2017-06-08T00:44:15|   13000|Maksym  |Peter   | 2018-12-26|Y              | 0.0094
+0770980901|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2017-12-05T08:34:27|   25800|Maksym  |Peter   | 2018-12-26|Y              | 0.0094
+0770981001|archived |ASASSN-14li|12 48 15.19|17 46 26.5|2018-07-05T16:10:20|   13000|Maksym  |Peter   | 2019-07-19|Y              | 0.0094
+0810200501|processed|ASASSN-14li|12 48 15.23|17 46 26.5|2018-12-10T12:53:10|   31000|Maksym  |Peter   | 2020-07-07|N              | 0.0010
+0810200701|processed|ASASSN-14li|12 48 15.23|17 46 26.5|2019-06-06T19:01:50|   32500|Maksym  |Peter   | 2020-07-07|N              | 0.0010
+
+Number of rows:    13
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position ASASSN-14li corresponds to J2000 decimal coordinates:192.063464 17.774016
+----

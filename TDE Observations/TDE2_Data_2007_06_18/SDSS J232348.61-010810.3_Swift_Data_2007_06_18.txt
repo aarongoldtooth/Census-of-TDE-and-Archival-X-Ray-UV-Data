@@ -1,0 +1,18 @@
+name                   |obsid      |ra         |dec        |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+SDSSJ234201+010629TDE2 |00010348001| 23 23 37.6|-01 07 47.5|2017-10-28T01:17:57|2017-11-07T00:00:00|  4951.64300|   4859.95700|  4992.00000|  2017-11-08| 2.9130
+SDSSJ232259.99-005359.3|00039752001|23 22 47.68|-00 54 03.6|2009-10-26T05:07:00|2016-04-26T00:00:00|  1192.95400|   1191.78700|  1260.00000|  2009-11-06|20.7627
+SDSSJ232259.99-005359.3|00039752002|23 22 49.29|-00 50 35.9|2011-01-21T19:10:00|2016-08-30T00:00:00|  3381.61700|   3583.40400|  3655.00000|  2011-02-01|22.9954
+
+Number of rows:    3
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position SDSS J232348.61-010810.3 corresponds to J2000 decimal coordinates:350.952561 -1.136202
+----

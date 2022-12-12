@@ -1,0 +1,25 @@
+obsid     |status   |name   |ra         |dec        |time               |duration|pi_lname     |pi_fname|public_date|data_in_heasarc|_offset
+0657820101|archived |GSN 069|01 19 08.70|-34 11 31.0|2010-12-02T10:44:18|   14913|SCHARTEL (PS)|NORBERT | 2011-06-16|Y              | 0.0089
+0740960101|archived |GSN 069|01 19 08.70|-34 11 30.5|2014-12-05T00:15:10|   95100|Miniutti     |Giovanni| 2016-01-08|Y              | 0.0039
+0823680101|archived |GSN 069|01 19 08.64|-34 11 30.5|2018-12-24T03:51:53|   63300|Miniutti     |Giovanni| 2020-01-20|Y              | 0.0088
+0831790701|archived |GSN 069|01 19 08.60|-34 11 30.5|2019-01-16T04:37:53|  141400|SCHARTEL (PS)|NORBERT | 2019-09-29|Y              | 0.0170
+0851180401|archived |GSN 069|01 19 08.66|-34 11 30.5|2019-05-31T21:10:22|  135400|SCHARTEL (PS)|NORBERT | 2019-12-05|Y              | 0.0043
+0864330101|processed|GSN 069|01 19 08.66|-34 11 30.5|2020-01-10T04:22:24|  141000|Miniutti     |Giovanni| 2999-01-01|N              | 0.0043
+0864330201|processed|GSN 069|01 19 08.66|-34 11 30.5|2020-05-28T21:02:01|  133100|Miniutti     |Giovanni| 2999-01-01|N              | 0.0043
+0864330301|processed|GSN 069|01 19 08.66|-34 11 30.5|2020-06-03T20:36:38|  133200|Miniutti     |Giovanni| 2999-01-01|N              | 0.0043
+0864330401|observed |GSN 069|01 19 08.66|-34 11 30.5|2020-06-13T18:55:19|  136100|Miniutti     |Giovanni| 2999-01-01|N              | 0.0043
+0864330701|observed |GSN 069|01 19 08.66|-34 11 30.5|2020-06-13T17:55:19|    3500|Miniutti     |Giovanni| 2999-01-01|N              | 0.0043
+
+Number of rows:    10
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 2MASX J01190869-3411305 corresponds to J2000 decimal coordinates:19.786167 -34.191806
+----

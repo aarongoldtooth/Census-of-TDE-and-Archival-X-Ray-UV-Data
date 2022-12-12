@@ -1,0 +1,17 @@
+obsid     |status  |name    |ra        |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0655800101|archived|NGC 4117|12 07 46.9|43 07 35.0|2010-05-07T14:06:17|   25655|Moran   |Edward  | 2011-12-01|Y              |12.8946
+0655800501|archived|NGC 4117|12 07 46.9|43 07 35.0|2010-11-11T04:04:55|   17018|Moran   |Edward  | 2011-12-01|Y              |12.8946
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position Dougie corresponds to J2000 decimal coordinates:182.1996 43.0225
+----

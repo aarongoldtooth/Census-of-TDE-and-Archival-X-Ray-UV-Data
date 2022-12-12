@@ -1,0 +1,16 @@
+obsid     |status  |name     |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0822040901|archived|AT2018hco|01 07 33.60|23 28 34.4|2018-12-27T22:35:27|   21000|Gezari  |Suvi    | 2020-01-22|Y              | 0.0083
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position ZTF18abxftqm corresponds to J2000 decimal coordinates:16.890146 23.476189
+----

@@ -1,0 +1,16 @@
+obsid     |status  |name           |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0503600101|archived|RXCJ0844.9+4258|08 44 56.66|42 58 54.1|2007-11-06T02:30:27|   26817|Mulchaey|John    | 2008-12-10|Y              | 1.2858
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position PS1-13jw corresponds to J2000 decimal coordinates:131.223167 42.962456
+----

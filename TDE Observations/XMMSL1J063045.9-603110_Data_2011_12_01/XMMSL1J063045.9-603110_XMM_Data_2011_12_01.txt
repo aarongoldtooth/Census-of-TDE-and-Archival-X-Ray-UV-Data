@@ -1,0 +1,16 @@
+obsid     |status  |name                |ra         |dec        |time               |duration|pi_lname     |pi_fname|public_date|data_in_heasarc|_offset
+0679381201|archived|XMMSL1J063045-603110|06 30 45.45|-60 31 12.8|2011-12-22T22:59:50|   14719|SCHARTEL (PS)|NORBERT | 2012-07-02|Y              | 0.0227
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position XMMSL1J063045.9-603110 corresponds to J2000 decimal coordinates:97.69 -60.52
+----

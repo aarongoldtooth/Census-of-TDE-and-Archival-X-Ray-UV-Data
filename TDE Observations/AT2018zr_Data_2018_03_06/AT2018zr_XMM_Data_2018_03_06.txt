@@ -1,0 +1,18 @@
+obsid     |status  |name     |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0822040301|archived|AT 2018zr|07 56 54.55|34 15 43.6|2018-04-11T23:42:42|   21000|Gezari  |Suvi    | 2019-05-22|Y              | 0.0025
+0822040401|archived|AT 2018zr|07 56 54.55|34 15 43.6|2019-03-26T23:31:01|   37758|Gezari  |Suvi    | 2020-04-23|Y              | 0.0025
+0822040501|archived|AT 2018zr|07 56 54.55|34 15 43.6|2018-05-03T22:06:41|   25000|Gezari  |Suvi    | 2019-05-22|Y              | 0.0025
+
+Number of rows:    3
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position AT2018zr corresponds to J2000 decimal coordinates:119.22724 34.262119
+----

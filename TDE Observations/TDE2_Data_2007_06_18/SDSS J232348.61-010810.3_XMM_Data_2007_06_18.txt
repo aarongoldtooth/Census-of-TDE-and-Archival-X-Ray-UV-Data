@@ -1,0 +1,16 @@
+obsid     |status  |name    |ra         |dec        |time               |duration|pi_lname   |pi_fname|public_date|data_in_heasarc|_offset
+0762260301|archived|SDSS2323|23 23 26.16|-01 00 33.1|2015-12-09T14:54:11|   37900|Alexandroff|Rachael | 2017-01-06|Y              | 9.4643
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J232348.61-010810.3 corresponds to J2000 decimal coordinates:350.952561 -1.136202
+----

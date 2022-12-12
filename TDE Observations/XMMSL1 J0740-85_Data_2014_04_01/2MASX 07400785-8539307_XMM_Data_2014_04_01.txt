@@ -1,0 +1,19 @@
+obsid     |status  |name                |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0740340301|archived|XMMSL1 J074008.2-853|07 40 08.30|-85 39 31.4|2014-04-29T19:24:29|   17340|Saxton  |Richard | 2016-02-01|Y              | 0.0070
+0740340401|archived|XMMSL1 J074008.2-853|07 40 08.30|-85 39 31.4|2014-04-30T10:33:11|   29000|Saxton  |Richard | 2016-02-01|Y              | 0.0070
+0740340501|archived|XMMSL1 J074008.2-853|07 40 08.30|-85 39 31.4|2014-04-30T06:00:00|   16200|Saxton  |Richard | 2016-02-01|Y              | 0.0070
+0740340601|archived|XMMSL1 J074008.2-853|07 40 08.30|-85 39 31.4|2015-01-11T18:44:30|   40000|Saxton  |Richard | 2016-02-01|Y              | 0.0070
+
+Number of rows:    4
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 2MASX 07400785-8539307 corresponds to J2000 decimal coordinates:115.033458 -85.658639
+----

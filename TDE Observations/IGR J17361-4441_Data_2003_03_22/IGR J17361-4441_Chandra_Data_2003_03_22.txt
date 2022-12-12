@@ -1,0 +1,17 @@
+obsid|status  |name    |ra         |dec        |time               |detector|grating|exposure|type|pi    |public_date|_offset
+12453|archived|NGC 6388|17 36 17.50|-44 44 07.1|2011-08-29T12:52:03|ACIS-S  |NONE   |   2550.|TOO |Pooley| 2012-08-30| 0.0220
+ 5505|archived|NGC 6388| 17 36 17.0|-44 44 06.0|2005-04-21T02:27:28|ACIS-S  |NONE   |  45160.|GO  |Cohn  | 2006-04-22| 0.0848
+
+Number of rows:    2
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position IGR J17361-4441 corresponds to J2000 decimal coordinates:264.072625 -44.735611
+----

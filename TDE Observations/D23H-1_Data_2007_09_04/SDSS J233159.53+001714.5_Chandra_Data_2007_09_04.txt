@@ -1,0 +1,23 @@
+obsid|status  |name                  |ra         |dec        |time               |detector|grating|exposure|type|pi    |public_date|_offset
+ 8609|archived|DEEP2 Field 3         |23 32 21.67|-00 00 39.7|2008-08-06T01:18:35|ACIS-I  |NONE   |   8960.|GTO |Murray| 2009-08-07|18.7409
+ 8614|archived|DEEP2 Field 3         |23 31 12.79| 00 03 39.1|2008-08-06T14:12:25|ACIS-I  |NONE   |   8960.|GTO |Murray| 2009-08-07|17.9259
+ 8606|archived|DEEP2 Field 3         |23 31 53.59| 00 13 09.8|2008-08-05T17:33:57|ACIS-I  |NONE   |   8950.|GTO |Murray| 2009-08-07| 4.3422
+ 8601|archived|DEEP2 Field 3         |23 33 00.67| 00 14 44.4|2008-08-05T04:18:55|ACIS-I  |NONE   |   9180.|GTO |Murray| 2009-08-07|15.4885
+ 8602|archived|DEEP2 Field 3         |23 30 38.81| 00 16 54.6|2008-08-05T07:11:20|ACIS-I  |NONE   |   9050.|GTO |Murray| 2009-08-07|20.1828
+ 7867|archived|Tidal Disruption Event|23 31 59.50| 00 17 14.6|2007-10-01T00:12:24|ACIS-S  |NONE   |  22140.|TOO |Gezari| 2008-10-09| 0.0083
+ 7868|archived|Tidal Disruption Event|23 31 59.50| 00 17 14.6|2008-01-23T19:48:39|ACIS-S  |NONE   |  30130.|TOO |Gezari| 2009-01-25| 0.0083
+ 9719|archived|Tidal Disruption Event|23 31 59.50| 00 17 14.6|2007-10-03T09:06:18|ACIS-S  |NONE   |   8150.|TOO |Gezari| 2008-10-09| 0.0083
+
+Number of rows:    8
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J233159.53+001714.5 corresponds to J2000 decimal coordinates:352.998058 0.287394
+----

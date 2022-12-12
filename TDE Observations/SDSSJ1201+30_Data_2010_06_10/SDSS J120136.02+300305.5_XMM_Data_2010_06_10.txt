@@ -1,0 +1,18 @@
+obsid     |status  |name          |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0555060301|archived|XMMSL1 J120135|12 01 35.69|30 03 06.0|2010-06-22T08:17:41|   35819|Saxton  |Richard | 2012-01-24|Y              | 0.0738
+0555060401|archived|XMMSL1 J120135|12 01 35.69|30 03 06.0|2010-11-22T23:53:18|   28849|Saxton  |Richard | 2012-01-24|Y              | 0.0738
+0555060501|archived|XMMSL1 J120135|12 01 35.69|30 03 06.0|2010-12-22T21:50:00|   27017|Saxton  |Richard | 2012-01-24|Y              | 0.0738
+
+Number of rows:    3
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J120136.02+300305.5 corresponds to J2000 decimal coordinates:180.400113 30.051539
+----

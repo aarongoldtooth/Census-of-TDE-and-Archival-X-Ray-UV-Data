@@ -1,0 +1,16 @@
+obsid     |status  |name    |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0741300101|archived|NGC 5908|15 16 43.21|55 24 33.3|2014-08-16T20:04:54|   45500|Li      |Jiangtao| 2015-09-07|Y              |13.0496
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position NGC 5905 corresponds to J2000 decimal coordinates:228.847173 55.517365
+----

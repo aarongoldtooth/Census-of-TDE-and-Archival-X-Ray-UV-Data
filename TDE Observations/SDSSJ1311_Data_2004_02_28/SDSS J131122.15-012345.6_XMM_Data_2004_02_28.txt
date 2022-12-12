@@ -1,0 +1,17 @@
+obsid     |status  |name      |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0093030101|archived|Abell 1689|13 11 29.40|-01 20 29.0|2001-12-24T04:12:20|   39763|Hughes  |John P. | 2003-01-23|Y              | 3.7441
+0693820201|archived|A1689 W   |13 10 29.89|-01 19 57.8|2013-01-08T06:45:06|   51920|Wik     |Daniel  | 2014-01-24|Y              |13.6022
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J131122.15-012345.6 corresponds to J2000 decimal coordinates:197.842303 -1.396003
+----

@@ -1,0 +1,16 @@
+obsid|status  |name                 |ra         |dec       |time               |detector|grating|exposure|type|pi |public_date|_offset
+17129|archived|2XMM J123103.2+110648|12 31 03.20|11 06 48.0|2016-02-10T04:24:05|ACIS-S  |NONE   |  40060.|GO  |Lin| 2017-02-10| 0.0142
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 2XMM J123103.2+110648 corresponds to J2000 decimal coordinates:187.763501 11.113498
+----

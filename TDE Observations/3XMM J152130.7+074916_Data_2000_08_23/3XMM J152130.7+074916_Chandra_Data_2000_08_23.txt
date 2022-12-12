@@ -1,0 +1,16 @@
+obsid|status  |name  |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+  900|archived|MKW 3S|15 21 51.90|07 42 32.0|2000-04-03T12:25:10|ACIS-I  |NONE   |  58030.|GO  |Kaastra| 2001-05-23| 8.5391
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 3XMM J152130.7+074916 corresponds to J2000 decimal coordinates:230.3779 7.8211
+----

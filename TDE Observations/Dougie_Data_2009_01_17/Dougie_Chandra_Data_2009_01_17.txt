@@ -1,0 +1,16 @@
+obsid|status  |name   |ra         |dec       |time               |detector|grating|exposure|type|pi    |public_date|_offset
+ 1578|archived|NGC4111|12 07 03.20|43 03 55.3|2001-04-03T00:56:05|ACIS-S  |NONE   |  15000.|GTO |Murray| 2002-06-11|19.3024
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position Dougie corresponds to J2000 decimal coordinates:182.1996 43.0225
+----

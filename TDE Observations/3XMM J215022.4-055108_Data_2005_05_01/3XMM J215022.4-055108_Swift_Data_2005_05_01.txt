@@ -1,0 +1,17 @@
+name                   |obsid      |ra         |dec        |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+SDSSJ215022.18-055058.5|00033396001|21 50 15.54|-05 52 45.5|2014-09-05T01:15:00|2018-03-02T00:00:00|  5934.49400|   5926.44300|  5978.00000|  2014-09-16| 2.3606
+SDSSJ215022.18-055058.5|00033396002|21 50 06.65|-05 51 39.3|2014-09-10T13:44:59|2018-03-02T00:00:00|  2134.51600|   2131.76900|  2146.00000|  2014-09-21| 3.9747
+
+Number of rows:    2
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position 3XMM J215022.4-055108 corresponds to J2000 decimal coordinates:327.593742 -5.852526
+----

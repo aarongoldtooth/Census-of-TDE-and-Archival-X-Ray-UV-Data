@@ -1,0 +1,16 @@
+obsid     |status   |name         |ra         |dec       |time               |duration|pi_lname    |pi_fname|public_date|data_in_heasarc|_offset
+0843440201|processed|SDSS J1342+05|13 42 44.39|05 30 56.1|2020-01-08T04:28:37|   17700|Chilingarian|Igor    | 2021-01-27|N              | 0.0070
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J134244.41+053056.1 corresponds to J2000 decimal coordinates:205.685067 5.515591
+----

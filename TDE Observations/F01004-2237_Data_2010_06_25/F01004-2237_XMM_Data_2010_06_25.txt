@@ -1,0 +1,16 @@
+obsid     |status  |name           |ra        |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0605880101|archived|IRAS 01003-2238|01 02 50.0|-22 21 57.0|2009-12-08T13:18:18|   34515|Risaliti|Guido   | 2010-12-22|Y              | 0.0044
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position F01004-2237 corresponds to J2000 decimal coordinates:15.708365 -22.365895
+----

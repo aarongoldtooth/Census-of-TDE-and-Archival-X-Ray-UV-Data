@@ -1,0 +1,16 @@
+obsid     |status  |name   |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0762500101|archived|XMM-RM1|14 20 34.80|53 27 04.6|2016-02-02T06:31:10|   15800|Green   |Paul    | 2017-02-25|Y              | 7.3452
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position RX J1420.4+5334 corresponds to J2000 decimal coordinates:215.1022 53.571022
+----

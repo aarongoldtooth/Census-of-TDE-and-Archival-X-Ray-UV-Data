@@ -1,0 +1,20 @@
+obsid     |status  |name                |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0763640201|archived|2MASX14460522+685731|14 46 05.20|68 57 30.7|2016-09-08T15:50:06|   11600|Saxton  |Richard | 2017-12-19|Y              | 0.0073
+0763640401|archived|2MASX14460522+685731|14 46 05.20|68 57 30.7|2016-09-16T15:18:20|   21800|Saxton  |Richard | 2017-12-19|Y              | 0.0073
+0763640501|archived|2MASX14460522+685731|14 46 05.20|68 57 30.7|2016-10-30T13:33:29|   16500|Saxton  |Richard | 2017-12-19|Y              | 0.0073
+0763640601|archived|2MASX14460522+685731|14 46 05.20|68 57 30.7|2016-11-27T10:16:24|   23000|Saxton  |Richard | 2017-12-19|Y              | 0.0073
+0823330101|archived|2MASX 1446+68       |14 46 05.20|68 57 31.1|2018-04-25T22:31:49|   24100|Saxton  |Richard | 2019-05-28|Y              | 0.0027
+
+Number of rows:    5
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position XMMSL2 J144605.0+685735 corresponds to J2000 decimal coordinates:221.521774 68.958641
+----

@@ -1,0 +1,16 @@
+obsid|status  |name       |ra         |dec       |time               |detector|grating|exposure|type|pi   |public_date|_offset
+21503|archived|ASASSN-14ae|11 08 40.10|34 05 52.2|2018-11-17T21:48:37|ACIS-S  |NONE   |  10060.|GO  |Stone| 2019-11-18| 0.0301
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position ASASSN-14ae corresponds to J2000 decimal coordinates:167.1665 34.097972
+----

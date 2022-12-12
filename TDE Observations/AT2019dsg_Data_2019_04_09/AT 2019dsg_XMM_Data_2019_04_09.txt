@@ -1,0 +1,17 @@
+obsid     |status   |name        |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0842590901|processed|ZTF19aapreis|20 57 02.95|14 12 16.3|2019-05-30T02:27:09|   39999|Gezari  |Suvi    | 2020-12-01|N              | 0.0085
+0842591901|processed|ZTF19aapreis|20 57 02.95|14 12 16.3|2019-10-23T01:29:24|   18000|Gezari  |Suvi    | 2020-12-01|N              | 0.0085
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position AT 2019dsg corresponds to J2000 decimal coordinates:314.262375 14.204406
+----

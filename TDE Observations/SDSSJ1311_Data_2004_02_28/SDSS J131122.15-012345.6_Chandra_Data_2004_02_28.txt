@@ -1,0 +1,21 @@
+obsid|status  |name      |ra         |dec        |time               |detector|grating|exposure|type|pi           |public_date|_offset
+ 7701|archived|Abell1689 |13 11 29.70|-01 20 31.0|2007-03-07T11:59:43|ACIS-I  |NONE   |   5060.|GTO |Garmire      | 2008-03-08| 3.7524
+ 6930|archived|Abell 1689|13 11 29.50|-01 20 30.0|2006-03-06T04:51:55|ACIS-I  |NONE   |  77150.|GTO |Garmire      | 2007-03-13| 3.7417
+ 7289|archived|Abell 1689|13 11 29.50|-01 20 30.0|2006-03-09T00:43:10|ACIS-I  |NONE   |  76120.|GTO |Garmire      | 2007-03-13| 3.7417
+ 5004|archived|A1689     |13 11 29.50|-01 20 28.0|2004-02-28T07:18:29|ACIS-I  |NONE   |  20120.|GTO |VANSPEYBROECK| 2005-03-02| 3.7710
+  540|archived|A1689     |13 11 29.50|-01 20 09.6|2000-04-15T04:13:33|ACIS-I  |NONE   |  10450.|GTO |VANSPEYBROECK| 2001-05-03| 4.0415
+ 1663|archived|A1689     |13 11 29.50|-01 20 09.6|2001-01-07T08:18:34|ACIS-I  |NONE   |  10870.|GTO |VANSPEYBROECK| 2002-01-22| 4.0415
+
+Number of rows:    6
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J131122.15-012345.6 corresponds to J2000 decimal coordinates:197.842303 -1.396003
+----

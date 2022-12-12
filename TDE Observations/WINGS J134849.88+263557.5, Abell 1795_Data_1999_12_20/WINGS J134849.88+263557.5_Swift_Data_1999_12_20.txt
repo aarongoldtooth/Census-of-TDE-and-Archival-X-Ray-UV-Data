@@ -1,0 +1,18 @@
+name     |obsid      |ra         |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+Abell1795|00035184002|13 48 58.31|26 32 41.0|2005-11-12T00:24:01|2015-01-28T00:00:00| 13347.42200|  13201.21900| 13804.00000|  2005-11-23| 3.7794
+Abell1795|00035184003|13 49 00.63|26 33 20.6|2005-11-12T18:04:01|2015-01-28T00:00:00|  7737.70900|   8436.45400|  8504.00000|  2005-11-23| 3.5517
+Abell1795|00035184001|13 48 58.55|26 36 00.5|2005-11-11T00:31:01|2015-01-28T00:00:00|  2785.90700|   2796.19400|  2858.00000|  2005-11-22| 1.9396
+
+Number of rows:    3
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position WINGS J134849.88+263557.5 corresponds to J2000 decimal coordinates:207.207833 26.599306
+----

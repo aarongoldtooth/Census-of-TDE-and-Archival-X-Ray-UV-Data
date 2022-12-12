@@ -1,0 +1,19 @@
+obsid|status  |name                     |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+ 4104|archived|F01572+0009              |01 59 50.20|00 23 40.6|2003-08-26T04:27:33|ACIS-S  |NONE   |  10720.|GO  |Wilson | 2004-08-28| 9.6826
+ 5777|archived|cl0159+0030              |01 59 18.20|00 30 09.0|2005-09-02T06:39:08|ACIS-I  |NONE   |  20140.|GTO |Murray | 2006-09-04|10.3055
+18639|archived|SDSS J0159+0033          |01 59 57.60|00 33 10.4|2016-09-09T18:42:58|ACIS-S  |NONE   |  21040.|GTO |Predehl| 2017-09-12| 0.0074
+15368|archived|GMBCG J030.12745+00.74201|02 00 30.50|00 44 31.2|2012-11-24T00:05:31|ACIS-I  |NONE   |  10080.|GTO |Garmire| 2013-11-26|14.0077
+
+Number of rows:    4
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J015957.64+003310.4 corresponds to J2000 decimal coordinates:29.99 0.553014
+----

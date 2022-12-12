@@ -1,0 +1,17 @@
+obsid     |status  |name       |ra         |dec        |time               |duration|pi_lname     |pi_fname |public_date|data_in_heasarc|_offset
+0770581201|archived|ASASSN15lh |22 02 15.47|-61 39 34.6|2015-11-18T15:18:03|   13000|SCHARTEL (PS)|NORBERT  | 2016-05-24|Y              | 0.0026
+0802280101|archived|ASASSN-15lh|22 02 15.43|-61 39 34.6|2018-04-12T10:58:36|   96600|Margutti     |Raffaella| 2019-04-29|Y              | 0.0018
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position ASASSN-15lh corresponds to J2000 decimal coordinates:330.56436 -61.65962
+----

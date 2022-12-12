@@ -1,0 +1,18 @@
+obsid|status  |name        |ra         |dec        |time               |detector|grating|exposure|type|pi     |public_date|_offset
+ 1559|archived|RXJ1242-1119|12 42 36.90|-11 19 35.0|2001-03-09T05:53:16|ACIS-S  |NONE   |   4500.|GTO |Predehl| 2002-03-16| 0.4772
+ 4758|archived|RXJ1242-1119|12 42 38.50|-11 19 21.0|2004-02-28T13:18:32|ACIS-S  |NONE   |   6960.|GTO |Predehl| 2005-03-03| 0.0280
+ 6775|archived|RXJ1242-1119|12 42 38.50|-11 19 21.0|2005-11-27T04:03:22|ACIS-S  |NONE   |  17400.|GTO |Predehl| 2006-11-29| 0.0280
+
+Number of rows:    3
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position RX J1242.6-1119A corresponds to J2000 decimal coordinates:190.660548 -11.32205
+----

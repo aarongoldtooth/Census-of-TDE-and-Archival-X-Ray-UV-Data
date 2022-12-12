@@ -1,0 +1,17 @@
+name |obsid      |ra         |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+SA115|00045850001|23 42 59.58|00 53 28.8|2012-05-04T15:12:00|2017-04-23T00:00:00|   724.18000|    700.74400|   735.00000|  2012-05-15|19.5120
+SA115|00045850002|23 42 48.37|00 53 49.8|2012-11-19T03:21:59|2017-06-28T00:00:00|  3176.74700|   3142.58300|  3196.00000|  2012-11-30|17.2641
+
+Number of rows:    2
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position SDSS J234201.40+010629.2 corresponds to J2000 decimal coordinates:355.505852 1.108137
+----

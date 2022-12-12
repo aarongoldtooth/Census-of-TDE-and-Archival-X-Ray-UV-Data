@@ -1,0 +1,119 @@
+obsid|status  |name                            |ra         |dec        |time               |detector|grating|exposure|type|pi       |public_date|_offset
+ 5022|archived|ECDF-S                          |03 33 01.78|-27 57 09.6|2004-11-15T00:51:06|ACIS-I  |NONE   |  80170.|GO  |Brandt   | 2004-11-17| 7.5598
+ 6164|archived|ECDF-S                          |03 33 01.78|-27 57 09.6|2004-11-20T21:08:15|ACIS-I  |NONE   |  70040.|GO  |Brandt   | 2004-11-23| 7.5598
+ 5021|archived|ECDF-S                          |03 33 01.78|-27 57 09.6|2004-11-13T03:26:51|ACIS-I  |NONE   |  99070.|GO  |Brandt   | 2004-11-17| 7.5598
+ 5019|archived|ECDF-S                          |03 31 48.78|-27 57 08.1|2004-11-17T14:43:34|ACIS-I  |NONE   | 165290.|GO  |Brandt   | 2004-11-24|12.3711
+ 5020|archived|ECDF-S                          |03 31 48.78|-27 57 08.1|2004-11-15T23:25:12|ACIS-I  |NONE   |  78620.|GO  |Brandt   | 2004-11-22|12.3711
+ 8593|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-06T02:03:40|ACIS-I  |NONE   |  50150.|DDT |Tananbaum| 2007-10-09| 3.7743
+ 8591|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-09-20T05:25:08|ACIS-I  |NONE   |  46030.|DDT |Tananbaum| 2007-09-21| 3.7743
+ 8592|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-22T12:13:07|ACIS-I  |NONE   |  87790.|DDT |Tananbaum| 2007-11-05| 3.7743
+ 8594|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-11-01T11:50:33|ACIS-I  |NONE   | 143270.|DDT |Tananbaum| 2007-11-16| 3.7743
+ 8595|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-19T14:15:34|ACIS-I  |NONE   | 116950.|DDT |Tananbaum| 2007-11-13| 3.7743
+ 8596|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-24T13:19:44|ACIS-I  |NONE   | 116640.|DDT |Tananbaum| 2007-11-16| 3.7743
+ 8597|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-17T07:06:27|ACIS-I  |NONE   |  60070.|DDT |Tananbaum| 2007-10-30| 3.7743
+ 9575|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-27T05:42:11|ACIS-I  |NONE   | 110130.|DDT |Tananbaum| 2007-11-16| 3.7743
+ 9578|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-30T22:34:25|ACIS-I  |NONE   |  39080.|DDT |Tananbaum| 2007-12-03| 3.7743
+ 9593|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-09-22T20:33:40|ACIS-I  |NONE   |  47050.|DDT |Tananbaum| 2007-10-09| 3.7743
+ 9596|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-11-04T04:10:47|ACIS-I  |NONE   | 113370.|DDT |Tananbaum| 2007-11-28| 3.7743
+ 9718|archived|Chandra Deep Field South (CDF-S)|03 32 28.20|-27 48 36.0|2007-10-03T13:55:04|ACIS-I  |NONE   |  50030.|DDT |Tananbaum| 2007-10-07| 3.7743
+  581|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|1999-10-14T20:39:35|ACIS-I  |NONE   |  43940.|GTO |GIACCONI | 2001-03-13| 3.8803
+  441|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|2000-05-27T01:17:01|ACIS-I  |NONE   |  56680.|GTO |GIACCONI | 2001-03-13| 3.8803
+  582|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|2000-06-03T02:37:19|ACIS-I  |NONE   | 132160.|GTO |GIACCONI | 2001-03-13| 3.8803
+ 1672|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|2000-12-16T05:06:52|ACIS-I  |NONE   |  96400.|GTO |GIACCONI | 2001-03-13| 3.8803
+ 2405|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|2000-12-11T08:13:13|ACIS-I  |NONE   |  60420.|GTO |GIACCONI | 2001-03-13| 3.8803
+ 1431|archived|Chandra Deep Field South (CDF-S)| 03 32 28.0|-27 48 30.0|1999-10-15T17:37:46|ACIS-I  |NONE   | 124580.|GTO |GIACCONI | 2001-03-13| 3.8803
+16190|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-22T19:35:38|ACIS-I  |NONE   | 118290.|GO  |Brandt   | 2014-11-24| 3.9147
+16191|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-05-25T07:07:11|ACIS-I  |NONE   |  84840.|GO  |Brandt   | 2015-05-26| 3.9147
+16182|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-28T14:29:25|ACIS-I  |NONE   |  76060.|GO  |Brandt   | 2014-10-30| 3.9147
+16450|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-18T15:56:34|ACIS-I  |NONE   |  82110.|GO  |Brandt   | 2014-11-20| 3.9147
+16451|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-03-24T21:12:31|ACIS-I  |NONE   | 114090.|GO  |Brandt   | 2015-03-26| 3.9147
+16181|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-31T06:55:47|ACIS-I  |NONE   |  71210.|GO  |Brandt   | 2014-11-03| 3.9147
+16452|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-12-12T21:48:03|ACIS-I  |NONE   |  28070.|GO  |Brandt   | 2015-12-16| 3.9147
+16453|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-03-21T20:26:39|ACIS-I  |NONE   |  71210.|GO  |Brandt   | 2015-03-23| 3.9147
+16454|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-01T02:10:00|ACIS-I  |NONE   |  47760.|GO  |Brandt   | 2014-10-02| 3.9147
+16455|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-10-27T09:51:33|ACIS-I  |NONE   |  90790.|GO  |Brandt   | 2015-10-29| 3.9147
+16456|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-07-29T20:12:30|ACIS-I  |NONE   |  48090.|GO  |Brandt   | 2014-07-30| 3.9147
+16180|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-06-22T10:09:50|ACIS-I  |NONE   |  50090.|GO  |Brandt   | 2014-06-23| 3.9147
+16457|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-08-05T02:23:25|ACIS-I  |NONE   |  46590.|GO  |Brandt   | 2014-08-05| 3.9147
+16458|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-10-30T23:23:53|ACIS-I  |NONE   |  97650.|GO  |Brandt   | 2015-11-03| 3.9147
+16179|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-12-31T13:55:58|ACIS-I  |NONE   |  30370.|GO  |Brandt   | 2015-01-02| 3.9147
+16459|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-06-20T05:43:40|ACIS-I  |NONE   |  73070.|GO  |Brandt   | 2015-06-23| 3.9147
+16460|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-06-16T07:07:54|ACIS-I  |NONE   |  21720.|GO  |Brandt   | 2015-06-17| 3.9147
+16461|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-05-19T01:41:59|ACIS-I  |NONE   | 131080.|GO  |Brandt   | 2015-05-22| 3.9147
+16462|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-14T13:39:49|ACIS-I  |NONE   | 145820.|GO  |Brandt   | 2014-10-16| 3.9147
+16463|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-09-23T00:26:24|ACIS-I  |NONE   |  53920.|GO  |Brandt   | 2014-09-24| 3.9147
+16178|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-07T11:43:37|ACIS-I  |NONE   |  74950.|GO  |Brandt   | 2014-10-09| 3.9147
+16620|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-10T13:19:49|ACIS-I  |NONE   |  34160.|GO  |Brandt   | 2014-10-17| 3.9147
+16177|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-08T21:28:56|ACIS-I  |NONE   | 128090.|GO  |Brandt   | 2014-10-16| 3.9147
+16641|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-07-31T00:30:17|ACIS-I  |NONE   |  47150.|GO  |Brandt   | 2014-07-31| 3.9147
+16644|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-08-06T09:22:42|ACIS-I  |NONE   |  44590.|GO  |Brandt   | 2014-08-07| 3.9147
+16176|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-02T17:43:58|ACIS-I  |NONE   |  25000.|GO  |Brandt   | 2014-10-03| 3.9147
+17416|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-09-28T06:57:39|ACIS-I  |NONE   |  53090.|GO  |Brandt   | 2014-09-29| 3.9147
+17417|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-09-25T16:20:25|ACIS-I  |NONE   |  12840.|GO  |Brandt   | 2014-09-26| 3.9147
+17535|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-17T07:33:44|ACIS-I  |NONE   | 123530.|GO  |Brandt   | 2014-10-20| 3.9147
+16175|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-03T14:46:07|ACIS-I  |NONE   |  53790.|GO  |Brandt   | 2014-10-05| 3.9147
+17542|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-24T18:27:28|ACIS-I  |NONE   |  35090.|GO  |Brandt   | 2014-10-27| 3.9147
+17546|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-02T09:13:06|ACIS-I  |NONE   |  20080.|GO  |Brandt   | 2014-11-03| 3.9147
+17552|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-10-10T07:44:37|ACIS-I  |NONE   |  50570.|GO  |Brandt   | 2015-10-15| 3.9147
+17556|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-12-09T23:52:11|ACIS-I  |NONE   |  47490.|GO  |Brandt   | 2014-12-12| 3.9147
+17573|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-01-04T04:01:46|ACIS-I  |NONE   |  40090.|GO  |Brandt   | 2015-01-05| 3.9147
+17633|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-03-16T14:50:40|ACIS-I  |NONE   |  35990.|GO  |Brandt   | 2015-03-17| 3.9147
+17634|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-03-19T04:46:40|ACIS-I  |NONE   |   9400.|GO  |Brandt   | 2015-03-19| 3.9147
+16185|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2016-03-24T09:17:58|ACIS-I  |NONE   |  49070.|GO  |Brandt   | 2016-03-30| 3.9147
+18709|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-11-22T20:14:25|ACIS-I  |NONE   |  17080.|GO  |Brandt   | 2015-11-24| 3.9147
+18719|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-12-10T06:58:18|ACIS-I  |NONE   |  34990.|GO  |Brandt   | 2015-12-11| 3.9147
+18730|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2016-02-02T10:10:44|ACIS-I  |NONE   |  30080.|GO  |Brandt   | 2016-02-03| 3.9147
+17677|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2015-11-15T15:53:06|ACIS-I  |NONE   | 110170.|GO  |Brandt   | 2015-11-19| 3.9147
+16186|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-02T15:14:02|ACIS-I  |NONE   |  29790.|GO  |Brandt   | 2014-11-03| 3.9147
+16183|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-06-09T15:40:53|ACIS-I  |NONE   | 100090.|GO  |Brandt   | 2014-06-11| 3.9147
+16187|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-03T09:43:30|ACIS-I  |NONE   |  28440.|GO  |Brandt   | 2014-11-04| 3.9147
+16188|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-13T03:16:32|ACIS-I  |NONE   | 105080.|GO  |Brandt   | 2014-11-17| 3.9147
+16189|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-11-29T03:55:52|ACIS-I  |NONE   |  91660.|GO  |Brandt   | 2014-12-01| 3.9147
+16184|archived|Chandra Deep Field South (CDF-S)|03 32 28.10|-27 48 26.4|2014-10-26T03:46:33|ACIS-I  |NONE   |  56120.|GO  |Brandt   | 2014-10-27| 3.9147
+ 2406|archived|Chandra Deep Field South (CDF-S)|03 32 27.50|-27 48 23.0|2000-12-10T23:34:09|ACIS-I  |NONE   |  30080.|DDT |GIACCONI | 2001-03-13| 4.0403
+ 2409|archived|Chandra Deep Field South (CDF-S)|03 32 27.50|-27 48 23.0|2000-12-19T03:54:31|ACIS-I  |NONE   |  69890.|DDT |GIACCONI | 2001-03-13| 4.0403
+ 2313|archived|Chandra Deep Field South (CDF-S)|03 32 27.50|-27 48 23.0|2000-12-21T02:07:39|ACIS-I  |NONE   | 132120.|DDT |GIACCONI | 2001-03-13| 4.0403
+ 2239|archived|Chandra Deep Field South (CDF-S)|03 32 27.50|-27 48 23.0|2000-12-23T17:26:57|ACIS-I  |NONE   | 132470.|DDT |GIACCONI | 2001-03-13| 4.0403
+ 2312|archived|Chandra Deep Field South (CDF-S)|03 32 27.50|-27 48 23.0|2000-12-13T03:26:59|ACIS-I  |NONE   | 125320.|DDT |GIACCONI | 2001-03-13| 4.0403
+12123|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-03-21T08:07:09|ACIS-I  |NONE   |  25120.|DDT |Tananbaum| 2010-08-20| 3.8695
+12043|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-03-18T01:37:59|ACIS-I  |NONE   | 131290.|DDT |Tananbaum| 2010-08-20| 3.8695
+12044|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-03-23T11:30:24|ACIS-I  |NONE   | 100840.|DDT |Tananbaum| 2010-08-20| 3.8695
+12045|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-03-28T16:37:15|ACIS-I  |NONE   | 101040.|DDT |Tananbaum| 2010-08-20| 3.8695
+12046|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-08T08:16:08|ACIS-I  |NONE   |  79060.|DDT |Tananbaum| 2010-08-20| 3.8695
+12047|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-12T13:20:12|ACIS-I  |NONE   |  10280.|DDT |Tananbaum| 2010-08-20| 3.8695
+12048|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-05-23T07:07:43|ACIS-I  |NONE   | 139930.|DDT |Tananbaum| 2010-08-20| 3.8695
+12049|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-05-28T18:57:05|ACIS-I  |NONE   |  88090.|DDT |Tananbaum| 2010-08-20| 3.8695
+12050|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-03T06:45:45|ACIS-I  |NONE   |  30050.|DDT |Tananbaum| 2010-08-20| 3.8695
+12051|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-10T11:28:39|ACIS-I  |NONE   |  58040.|DDT |Tananbaum| 2010-08-20| 3.8695
+12052|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-15T16:01:02|ACIS-I  |NONE   | 111880.|DDT |Tananbaum| 2010-08-20| 3.8695
+12053|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-07-05T03:10:50|ACIS-I  |NONE   |  69010.|DDT |Tananbaum| 2010-08-20| 3.8695
+12054|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-07-09T11:33:49|ACIS-I  |NONE   |  61810.|DDT |Tananbaum| 2010-08-20| 3.8695
+12055|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-05-15T17:14:01|ACIS-I  |NONE   |  81750.|DDT |Tananbaum| 2010-08-20| 3.8695
+12128|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-03-27T13:06:57|ACIS-I  |NONE   |  23100.|DDT |Tananbaum| 2010-08-20| 3.8695
+12129|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-03T15:19:53|ACIS-I  |NONE   |  78160.|DDT |Tananbaum| 2010-08-20| 3.8695
+12135|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-06T09:35:00|ACIS-I  |NONE   |  63360.|DDT |Tananbaum| 2010-08-20| 3.8695
+12137|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-16T08:52:08|ACIS-I  |NONE   |  94010.|DDT |Tananbaum| 2010-08-20| 3.8695
+12138|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-04-18T12:39:22|ACIS-I  |NONE   |  39040.|DDT |Tananbaum| 2010-08-20| 3.8695
+12213|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-05-17T14:21:11|ACIS-I  |NONE   |  62100.|DDT |Tananbaum| 2010-08-20| 3.8695
+12218|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-11T10:16:47|ACIS-I  |NONE   |  89140.|DDT |Tananbaum| 2010-08-20| 3.8695
+12219|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-06T16:28:34|ACIS-I  |NONE   |  34110.|DDT |Tananbaum| 2010-08-20| 3.8695
+12220|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-18T12:53:56|ACIS-I  |NONE   |  48770.|DDT |Tananbaum| 2010-08-20| 3.8695
+12222|archived|Chandra Deep Field South (CDF-S)|03 32 28.80|-27 48 23.0|2010-06-05T02:46:17|ACIS-I  |NONE   |  31050.|DDT |Tananbaum| 2010-08-20| 3.8695
+
+Number of rows:    100
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position CANDELS J033238.77-275133.7 corresponds to J2000 decimal coordinates:53.161575 -27.859375
+----
+----
+Note: Query Limit
+Number of rows exceeds limit
+----

@@ -1,0 +1,18 @@
+obsid     |status  |name                |ra         |dec        |time               |duration|pi_lname      |pi_fname|public_date|data_in_heasarc|_offset
+0405550401|archived|RXCJ1847.3-6320     | 18 47 20.0|-63 20 13.0|2006-09-06T23:26:11|   28262|Johnstone     |Roderick| 2007-10-03|Y              | 2.8596
+0694610101|archived|2XMMi J184725-631724|18 47 25.15|-63 17 24.9|2013-03-03T10:28:57|   45377|Lin           |Dacheng | 2014-03-22|Y              | 0.0014
+0405380501|archived|ESO 104-G11         | 18 47 44.2|-63 09 25.0|2007-04-16T07:32:18|   35013|Jimenez-Bailon|Elena   | 2008-05-01|Y              | 8.2767
+
+Number of rows:    3
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 2XMMi J184725.1-631724 corresponds to J2000 decimal coordinates:281.854833 -63.290267
+----

@@ -1,0 +1,16 @@
+obsid|status  |name   |ra         |dec       |time               |detector|grating|exposure|type|pi   |public_date|_offset
+19531|archived|PTF09ge|14 57 03.10|49 36 40.8|2017-09-28T20:19:16|ACIS-S  |NONE   |  34600.|GO  |Stone| 2018-09-29| 0.0002
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position PTF09ge corresponds to J2000 decimal coordinates:224.262917 49.611333
+----

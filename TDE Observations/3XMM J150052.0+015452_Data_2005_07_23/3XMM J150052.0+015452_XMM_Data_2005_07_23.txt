@@ -1,0 +1,26 @@
+obsid     |status   |name               |ra         |dec       |time               |duration|pi_lname   |pi_fname|public_date|data_in_heasarc|_offset
+0302460101|archived |NGC 5813           |15 01 11.32|01 42 06.4|2005-07-23T04:53:01|   36708|LOEWENSTEIN|MICHAEL | 2006-09-08|Y              |13.6524
+0554680501|archived |NGC 5813           |15 01 11.32|01 42 06.4|2009-02-17T14:15:25|    9229|Kaastra    |Jelle   | 2010-03-10|Y              |13.6524
+0554680201|archived |NGC 5813           |15 01 11.32|01 42 06.4|2009-02-11T17:30:36|   66920|Kaastra    |Jelle   | 2010-03-10|Y              |13.6524
+0554680301|archived |NGC 5813           |15 01 11.32|01 42 06.4|2009-02-17T17:08:01|   68920|Kaastra    |Jelle   | 2010-03-10|Y              |13.6524
+0554680401|archived |NGC 5813           |15 01 11.32|01 42 06.4|2009-02-11T14:38:00|    9271|Kaastra    |Jelle   | 2010-03-10|Y              |13.6524
+0804370501|archived |3XMM J150052+015452|15 00 51.98|01 54 52.7|2018-01-20T16:13:36|   20000|Lin        |Dacheng | 2019-02-06|Y              | 0.0066
+0804370401|archived |3XMM J150052+015452|15 00 51.98|01 54 52.7|2017-08-09T16:33:32|   24000|Lin        |Dacheng | 2019-02-06|Y              | 0.0066
+0804370301|archived |3XMM J150052+015452|15 00 51.98|01 54 52.7|2017-07-21T00:15:49|   20000|Lin        |Dacheng | 2019-02-06|Y              | 0.0066
+0885260101|processed|3XMM J150052+015452|15 00 51.98|01 54 52.7|2022-01-20T03:31:35|   49000|Lin        |Dacheng | 2999-01-01|N              | 0.0066
+0885260201|processed|3XMM J150052+015452|15 00 51.98|01 54 52.7|2022-02-06T11:23:30|   20000|Lin        |Dacheng | 2023-02-28|N              | 0.0066
+0844040101|archived |3XMM J150052+015452|15 00 51.98|01 54 52.7|2020-02-21T03:13:01|   32500|Lin        |Dacheng | 2021-03-12|Y              | 0.0066
+
+Number of rows:    11
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 3XMM J150052.0+015452 corresponds to J2000 decimal coordinates:225.21671 1.91464
+----

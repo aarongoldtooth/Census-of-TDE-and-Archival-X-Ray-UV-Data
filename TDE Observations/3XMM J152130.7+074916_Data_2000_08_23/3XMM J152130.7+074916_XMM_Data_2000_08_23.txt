@@ -1,0 +1,18 @@
+obsid     |status  |name  |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0109930101|archived|MKW 3s| 15 21 50.0|07 41 27.0|2000-08-22T21:15:48|   55413|Brinkman|Albert  | 2002-09-19|Y              | 9.1633
+0109930201|archived|MKW 3s| 15 21 50.0|07 41 27.0|2000-08-23T12:45:14|    6121|Brinkman|Albert  | 2002-09-19|Y              | 9.1633
+0723801501|archived|MKW3s |15 21 51.37|07 42 21.2|2014-01-19T10:52:15|  119600|de Plaa |Jelle   | 2014-02-06|Y              | 8.6033
+
+Number of rows:    3
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 3XMM J152130.7+074916 corresponds to J2000 decimal coordinates:230.3779 7.8211
+----

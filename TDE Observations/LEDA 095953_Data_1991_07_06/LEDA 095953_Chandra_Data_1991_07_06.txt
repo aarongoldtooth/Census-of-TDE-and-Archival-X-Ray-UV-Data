@@ -1,0 +1,16 @@
+obsid|status  |name |ra         |dec        |time               |detector|grating|exposure|type|pi   |public_date|_offset
+ 4203|archived|A3571|13 47 28.10|-32 51 06.8|2003-07-31T06:12:48|ACIS-S  |NONE   |  34440.|GO  |Irwin| 2004-08-07| 3.7923
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position LEDA 095953 corresponds to J2000 decimal coordinates:206.875345 -32.914712
+----

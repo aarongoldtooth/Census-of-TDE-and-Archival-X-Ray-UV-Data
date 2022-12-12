@@ -1,0 +1,27 @@
+obsid|status  |name                   |ra         |dec       |time               |detector|grating|exposure|type|pi      |public_date|_offset
+ 9517|archived|NGC5813                | 15 01 07.1|01 41 01.9|2008-06-05T20:18:39|ACIS-S  |NONE   | 100060.|GO  |Forman  | 2009-06-09|14.3448
+ 5907|archived|NGC5813                |15 01 11.30|01 42 07.1|2005-04-02T06:44:19|ACIS-S  |NONE   |  49040.|GO  |Sarazin | 2006-04-05|13.6401
+13253|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-04-08T14:39:58|ACIS-S  |NONE   | 119530.|GO  |Randall | 2012-04-11|11.1685
+12951|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-03-28T13:11:09|ACIS-S  |NONE   |  74940.|GO  |Randall | 2012-04-11|11.1685
+12952|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-04-05T04:20:18|ACIS-S  |NONE   | 144900.|GO  |Randall | 2012-04-11|11.1685
+12953|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-04-07T19:30:51|ACIS-S  |NONE   |  32160.|GO  |Randall | 2012-04-11|11.1685
+13246|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-03-30T21:10:58|ACIS-S  |NONE   |  45590.|GO  |Randall | 2012-04-11|11.1685
+13247|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-03-31T18:00:14|ACIS-S  |NONE   |  36210.|GO  |Randall | 2012-04-11|11.1685
+13255|archived|NGC5813                |15 01 08.72|01 44 31.2|2011-04-10T11:36:45|ACIS-S  |NONE   |  43960.|GO  |Randall | 2012-04-11|11.1685
+23558|archived|SN 2012P               |14 59 59.12|01 53 24.4|2021-02-05T18:26:49|ACIS-S  |NONE   |  10080.|GO  |Patnaude| 2022-02-07|13.2972
+17019|archived|CXO J150052.1+015453   |15 00 52.10|01 54 53.0|2015-02-23T10:34:03|ACIS-S  |NONE   |  37060.|GO  |Lin     | 2016-02-24| 0.0227
+11324|archived|SDSSJ150033.02+021349.1|15 00 33.12|02 13 49.3|2010-04-14T07:34:26|ACIS-S  |NONE   |   6350.|GO  |Gallo   | 2010-04-15|19.5223
+
+Number of rows:    12
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 3XMM J150052.0+015452 corresponds to J2000 decimal coordinates:225.21671 1.91464
+----

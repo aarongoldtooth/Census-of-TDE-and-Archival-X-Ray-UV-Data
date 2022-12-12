@@ -1,0 +1,16 @@
+obsid|status  |name   |ra         |dec        |time               |detector|grating|exposure|type|pi      |public_date|_offset
+22096|archived|GSN 069|01 19 08.60|-34 11 30.5|2019-02-14T16:36:38|ACIS-S  |NONE   |  73570.|DDT |Miniutti| 2019-05-15| 0.0167
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 2MASX J01190869-3411305 corresponds to J2000 decimal coordinates:19.786167 -34.191806
+----

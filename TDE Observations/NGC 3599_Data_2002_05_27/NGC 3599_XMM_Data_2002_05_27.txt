@@ -1,0 +1,17 @@
+obsid     |status  |name                |ra         |dec       |time               |duration|pi_lname     |pi_fname|public_date|data_in_heasarc|_offset
+0411980101|archived|XMMSL1 J111527.3+180|11 15 26.89|18 06 37.0|2006-06-23T12:24:00|    6894|SCHARTEL (PS)|NORBERT | 2006-06-23|Y              | 0.0164
+0556090101|archived|NGC 3599            |11 15 26.89|18 06 37.0|2008-12-02T11:27:05|   43618|Esquej       |Pilar   | 2010-01-07|Y              | 0.0164
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position NGC 3599 corresponds to J2000 decimal coordinates:168.862315 18.110386
+----

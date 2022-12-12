@@ -1,0 +1,15 @@
+obsid|status|name|ra|dec|time|detector|grating|exposure|type|pi|public_date|_offset
+
+Number of rows:    0
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SN2017bcc corresponds to J2000 decimal coordinates:172.970792 29.995869
+----

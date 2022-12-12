@@ -1,0 +1,27 @@
+obsid|status  |name         |ra         |dec        |time               |detector|grating|exposure|type|pi       |public_date|_offset
+20786|archived|A133 filament| 01 04 13.9|-22 24 11.8|2018-10-01T13:28:42|ACIS-I  |NONE   |  22540.|GTO |Kraft    | 2020-02-14|19.3355
+21864|archived|A133 filament| 01 04 13.9|-22 24 11.8|2018-10-05T02:23:39|ACIS-I  |NONE   |  35080.|GTO |Kraft    | 2020-02-14|19.3355
+21865|archived|A133 filament| 01 04 13.9|-22 24 11.8|2018-10-06T16:22:46|ACIS-I  |NONE   |  39330.|GTO |Kraft    | 2020-02-14|19.3355
+ 4103|archived|F01004-2237  |01 02 49.90|-22 21 57.0|2003-08-03T07:58:14|ACIS-S  |NONE   |  10100.|GO  |Wilson   | 2004-08-19| 0.0250
+13391|archived|A133D        |01 03 01.71|-22 13 59.1|2011-08-16T06:07:24|ACIS-I  |NONE   |  47050.|GTO |Murray   | 2012-08-17| 8.4167
+13451|archived|A133-5       |01 03 47.33|-22 11 44.5|2011-09-16T20:11:26|ACIS-I  |NONE   |  71050.|GO  |Vikhlinin| 2011-09-21|16.7378
+13445|archived|A133-2       |01 02 03.25|-22 11 34.2|2011-09-02T21:57:03|ACIS-I  |NONE   |  66040.|GO  |Vikhlinin| 2011-09-07|14.9951
+13450|archived|A133-5       |01 03 54.12|-22 09 38.4|2011-10-05T02:18:20|ACIS-I  |NONE   | 109610.|GO  |Vikhlinin| 2011-10-07|19.2777
+14347|archived|A133-5       |01 03 54.12|-22 09 38.4|2011-10-09T22:02:04|ACIS-I  |NONE   |  69600.|GO  |Vikhlinin| 2011-10-11|19.2777
+13456|archived|A133-8       |01 02 32.52|-22 08 52.1|2011-10-15T15:20:26|ACIS-I  |NONE   | 137430.|GO  |Vikhlinin| 2011-10-18|13.6964
+14354|archived|A133-8       |01 02 32.52|-22 08 52.1|2011-10-10T17:52:58|ACIS-I  |NONE   |  39160.|GO  |Vikhlinin| 2011-10-11|13.6964
+12179|archived|Abell 133 (C)|01 02 56.40|-22 08 25.9|2010-09-03T13:20:16|ACIS-I  |NONE   |  51770.|GTO |Murray   | 2011-09-09|13.6031
+
+Number of rows:    12
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position F01004-2237 corresponds to J2000 decimal coordinates:15.708365 -22.365895
+----

@@ -1,0 +1,20 @@
+obsid     |status  |name          |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0145800101|archived|LBQS 1228+1116|12 30 54.11|11 00 11.0|2003-07-13T08:38:51|  107002|Fujimoto|Ryuichi | 2004-08-31|Y              | 6.9949
+0306630101|archived|LBQS 1228+1116|12 30 54.11|11 00 11.0|2005-12-13T10:01:25|   80874|Fujimoto|Ryuichi | 2007-01-10|Y              | 6.9949
+0306630201|archived|LBQS 1228+1116|12 30 54.11|11 00 11.0|2005-12-17T05:16:20|   99517|Fujimoto|Ryuichi | 2007-01-10|Y              | 6.9949
+0306630301|archived|LBQS 1228+1116|12 30 54.11|11 00 11.0|2005-12-14T09:32:02|    3680|Fujimoto|Ryuichi | 2007-01-10|Y              | 6.9949
+0306630401|archived|LBQS 1228+1116|12 30 54.11|11 00 11.0|2005-12-18T09:13:42|    4013|Fujimoto|Ryuichi | 2007-01-10|Y              | 6.9949
+
+Number of rows:    5
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position 2XMM J123103.2+110648 corresponds to J2000 decimal coordinates:187.763501 11.113498
+----

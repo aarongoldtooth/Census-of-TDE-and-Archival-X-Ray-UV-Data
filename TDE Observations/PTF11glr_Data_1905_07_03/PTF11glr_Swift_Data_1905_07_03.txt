@@ -1,0 +1,16 @@
+name    |obsid      |ra         |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+PTF11glr|00032056001|16 53 57.89|41 21 00.6|2011-08-11T19:44:00|2016-09-28T00:00:00|  3981.74500|   3955.48800|  4032.00000|  2011-08-22| 1.7242
+
+Number of rows:    1
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position PTF11glr corresponds to J2000 decimal coordinates:253.525542 41.337444
+----

@@ -1,0 +1,17 @@
+obsid|status  |name       |ra         |dec        |time               |detector|grating|exposure|type|pi  |public_date|_offset
+17547|archived|NGC 247    |00 47 03.90|-20 46 25.6|2014-11-12T05:33:41|ACIS-S  |NONE   |   5070.|DDT |Feng| 2015-02-12| 1.3517
+12437|archived|NGC 247 ULX|00 46 57.80|-20 45 37.6|2011-02-01T14:31:09|ACIS-S  |NONE   |   5050.|GO  |Feng| 2012-02-03| 2.5132
+
+Number of rows:    2
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position NGC 247 corresponds to J2000 decimal coordinates:11.785625 -20.760389
+----

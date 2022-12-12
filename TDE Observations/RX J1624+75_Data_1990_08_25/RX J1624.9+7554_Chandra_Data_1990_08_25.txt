@@ -1,0 +1,16 @@
+obsid|status  |name       |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+ 3007|archived|RX J1624+75|16 24 56.50|75 54 56.0|2002-09-15T06:26:08|ACIS-S  |NONE   |  10460.|GO  |Edelson| 2003-09-18| 0.0054
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position RX J1624.9+7554 corresponds to J2000 decimal coordinates:246.235792 75.915556
+----

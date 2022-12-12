@@ -1,0 +1,16 @@
+obsid|status  |name    |ra         |dec       |time               |detector|grating|exposure|type|pi    |public_date|_offset
+ 9253|archived|3CRR 266|11 45 43.40|49 46 07.3|2008-02-16T23:45:02|ACIS-S  |NONE   |  18480.|GO  |Wilkes| 2009-02-19|16.9837
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position RBS 1032 corresponds to J2000 decimal coordinates:176.861217 49.716062
+----

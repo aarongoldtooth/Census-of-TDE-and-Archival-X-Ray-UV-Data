@@ -1,0 +1,19 @@
+obsid|status  |name       |ra         |dec        |time               |detector|grating|exposure|type|pi      |public_date|_offset
+17879|archived|ASASSN-15lh|22 02 15.45|-61 39 34.6|2015-11-12T06:13:16|ACIS-S  |NONE   |  10040.|TOO |MARGUTTI| 2016-11-13| 0.0008
+17880|archived|ASASSN-15lh|22 02 15.45|-61 39 34.6|2015-12-13T06:06:37|ACIS-S  |NONE   |  10060.|TOO |MARGUTTI| 2016-12-14| 0.0008
+17881|archived|ASASSN-15lh|22 02 15.45|-61 39 34.6|2016-02-20T23:45:01|ACIS-S  |NONE   |  40060.|TOO |MARGUTTI| 2017-02-22| 0.0008
+17882|archived|ASASSN-15lh|22 02 15.45|-61 39 34.6|2016-08-19T22:34:35|ACIS-S  |NONE   |  30060.|TOO |MARGUTTI| 2017-08-22| 0.0008
+
+Number of rows:    4
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position ASASSN-15lh corresponds to J2000 decimal coordinates:330.56436 -61.65962
+----

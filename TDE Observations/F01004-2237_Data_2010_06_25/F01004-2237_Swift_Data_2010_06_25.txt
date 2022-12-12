@@ -1,0 +1,15 @@
+name|obsid|ra|dec|start_time|processing_date|xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+
+Number of rows:    0
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position F01004-2237 corresponds to J2000 decimal coordinates:15.708365 -22.365895
+----

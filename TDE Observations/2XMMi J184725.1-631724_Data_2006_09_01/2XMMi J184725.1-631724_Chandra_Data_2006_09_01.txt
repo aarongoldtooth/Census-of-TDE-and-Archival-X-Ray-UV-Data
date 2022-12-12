@@ -1,0 +1,16 @@
+obsid|status  |name                  |ra         |dec        |time               |detector|grating|exposure|type|pi |public_date|_offset
+15637|archived|2XMMI J184725.1-631724|18 47 25.20|-63 17 25.0|2013-03-29T04:10:42|ACIS-S  |NONE   |  15070.|DDT |Lin| 2013-07-01| 0.0046
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 2XMMi J184725.1-631724 corresponds to J2000 decimal coordinates:281.854833 -63.290267
+----

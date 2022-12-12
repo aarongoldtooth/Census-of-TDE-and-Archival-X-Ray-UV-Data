@@ -1,0 +1,17 @@
+obsid|status    |name          |ra         |dec        |time               |detector|grating|exposure|type|pi      |public_date|_offset
+21505|archived  |TDE2          |23 23 48.60|-01 08 10.2|2019-09-01T15:33:15|ACIS-S  |NONE   |  30060.|GO  |Stone   | 2020-09-03| 0.0041
+23770|unobserved|SDSSJ2323-0100|23 23 26.10|-01 00 33.1|               null|ACIS-S  |NONE   |  15900.|GO  |Goulding|       null| 9.4734
+
+Number of rows:    2
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J232348.61-010810.3 corresponds to J2000 decimal coordinates:350.952561 -1.136202
+----

@@ -1,0 +1,15 @@
+obsid|status|name|ra|dec|time|duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+
+Number of rows:    0
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position iPTF16fnl corresponds to J2000 decimal coordinates:7.487667 32.89375
+----

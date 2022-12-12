@@ -1,0 +1,18 @@
+obsid|status  |name    |ra         |dec       |time               |detector|grating|exposure|type|pi    |public_date|_offset
+19532|archived|PTF09axc|14 53 13.10|22 14 32.2|2017-12-08T23:11:33|ACIS-S  |NONE   |  54370.|GO  |Stone | 2018-12-12| 0.0091
+20879|archived|PTF09axc|14 53 13.10|22 14 32.2|2017-12-06T18:12:18|ACIS-S  |NONE   |  15740.|GO  |Stone | 2018-12-12| 0.0091
+21438|archived|PTF09axc|14 53 13.10|22 14 32.3|2019-02-14T06:02:01|ACIS-S  |NONE   |  10110.|GO  |Berger| 2020-02-14| 0.0093
+
+Number of rows:    3
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position PTF09axc corresponds to J2000 decimal coordinates:223.304417 22.242278
+----

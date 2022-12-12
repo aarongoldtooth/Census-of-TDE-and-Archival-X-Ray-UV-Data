@@ -1,0 +1,16 @@
+obsid     |status  |name           |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0303110101|archived|SDSS J0157-0053|01 57 16.92|-00 53 04.8|2005-07-14T06:27:34|   13109|Ptak    |Andrew  | 2006-09-24|Y              |11.9775
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position AT2016ezh corresponds to J2000 decimal coordinates:29.519793 -0.872746
+----

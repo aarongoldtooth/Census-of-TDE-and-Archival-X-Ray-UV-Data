@@ -1,0 +1,16 @@
+obsid     |status  |name                |ra        |dec       |time               |duration|pi_lname     |pi_fname|public_date|data_in_heasarc|_offset
+0411980501|archived|XMMSL1 J132342.3+482|13 23 42.0|48 27 01.0|2006-07-15T02:51:17|    6892|SCHARTEL (PS)|NORBERT | 2006-07-15|Y              | 0.0059
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J132341.97+482701.3 corresponds to J2000 decimal coordinates:200.924905 48.450355
+----

@@ -1,0 +1,16 @@
+obsid     |status  |name            |ra         |dec       |time               |duration|pi_lname |pi_fname|public_date|data_in_heasarc|_offset
+0721830301|archived|J131951.9+225957|13 19 51.89|22 59 57.0|2013-12-21T06:25:04|    8600|Mushotzky|Richard | 2015-01-19|Y              | 0.0949
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position XMMSL1 J131952.3+225958 corresponds to J2000 decimal coordinates:199.9679 22.9994
+----

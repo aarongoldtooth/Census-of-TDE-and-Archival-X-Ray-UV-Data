@@ -1,0 +1,17 @@
+obsid     |status  |name     |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0109070201|archived|E1346+266|13 48 34.99|26 22 07.0|2003-01-13T13:25:14|   72061|Mason   |Keith   | 2004-02-19|Y              |14.2370
+0097820101|archived|A 1795   |13 48 52.99|26 35 32.0|2000-06-26T01:13:57|   66559|Brinkman|Albert  | 2001-10-30|Y              | 0.8153
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position WINGS J134849.88+263557.5 corresponds to J2000 decimal coordinates:207.207833 26.599306
+----

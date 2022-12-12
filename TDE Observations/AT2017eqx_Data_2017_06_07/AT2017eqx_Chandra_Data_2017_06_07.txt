@@ -1,0 +1,19 @@
+obsid|status  |name      |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+20625|archived|PS17dhz   |22 26 48.40|17 08 52.3|2017-08-16T10:28:01|ACIS-S  |NONE   |  10060.|DDT |Nicholl| 2017-11-16| 0.0075
+21437|archived|PS17dhz   |22 26 48.30|17 08 52.4|2019-01-03T03:29:53|ACIS-S  |NONE   |  10110.|GO  |Berger | 2020-01-03| 0.0167
+12257|archived|Abell 2443|22 26 04.50|17 21 59.4|2010-08-20T01:11:17|ACIS-S  |NONE   |  15230.|GO  |Clarke | 2011-08-23|16.7853
+15169|archived|Abell 2443|22 26 07.23|17 22 21.5|2013-08-17T20:04:28|ACIS-I  |NONE   |  99540.|GO  |Clarke | 2014-08-20|16.6838
+
+Number of rows:    4
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position AT2017eqx corresponds to J2000 decimal coordinates:336.701542 17.147889
+----

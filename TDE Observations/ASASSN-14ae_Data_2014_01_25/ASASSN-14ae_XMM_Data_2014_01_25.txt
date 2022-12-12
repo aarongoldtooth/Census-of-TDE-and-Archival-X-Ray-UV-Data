@@ -1,0 +1,18 @@
+obsid     |status  |name       |ra        |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0694651001|archived|ASASSN-14ae|11 08 40.9|34 05 52.2|2014-05-15T01:46:00|   23499|Levan   |Andrew  | 2016-05-21|Y              | 0.0286
+0694651101|archived|ASASSN-14ae|11 08 40.9|34 05 52.2|2014-06-13T23:47:46|   26500|Levan   |Andrew  | 2016-05-21|Y              | 0.0286
+0694651601|archived|ASASSN-14ae|11 08 40.9|34 05 52.2|2015-05-09T05:14:49|   23400|Levan   |Andrew  | 2016-05-21|Y              | 0.0286
+
+Number of rows:    3
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position ASASSN-14ae corresponds to J2000 decimal coordinates:167.1665 34.097972
+----

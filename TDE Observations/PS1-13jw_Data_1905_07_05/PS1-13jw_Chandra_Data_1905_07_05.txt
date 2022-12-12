@@ -1,0 +1,16 @@
+obsid|status  |name |ra         |dec       |time               |detector|grating|exposure|type|pi  |public_date|_offset
+18229|archived|J0844|08 44 56.60|42 58 35.7|2015-12-27T22:06:08|ACIS-S  |NONE   |  22060.|GO  |WONG| 2016-12-28| 1.0135
+
+Number of rows:    1
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position PS1-13jw corresponds to J2000 decimal coordinates:131.223167 42.962456
+----

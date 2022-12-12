@@ -1,0 +1,16 @@
+obsid     |status  |name    |ra         |dec       |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0604020101|archived|RBS 1032|11 47 26.70|49 42 57.8|2009-11-21T03:34:31|   21262|Ghosh   |Kajal   | 2010-12-18|Y              | 0.0013
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position RBS 1032 corresponds to J2000 decimal coordinates:176.861217 49.716062
+----

@@ -1,0 +1,16 @@
+name                   |obsid      |ra         |dec        |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+SDSSJ131122.15-012345.6|00010361001|13 11 24.31|-01 22 35.2|2017-11-26T14:14:57|2017-12-06T00:00:00|  1968.27900|   1917.69800|  1982.00000|  2017-12-07| 1.2911
+
+Number of rows:    1
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position SDSS J131122.15-012345.6 corresponds to J2000 decimal coordinates:197.842303 -1.396003
+----

@@ -1,0 +1,20 @@
+obsid|status    |name                    |ra         |dec        |time               |detector|grating|exposure|type|pi       |public_date|_offset
+16273|archived  |F2M0156-0058            | 01 56 48.0|-00 58 07.0|2014-11-27T12:20:52|ACIS-I  |NONE   |   6070.|GTO |Murray   | 2015-11-28|20.0288
+ 7750|archived  |SDSS J015716.92-005304.8|01 57 16.90|-00 53 04.8|2007-06-18T03:35:15|ACIS-S  |NONE   |   9740.|GO  |Vignali  | 2008-06-18|11.9824
+21460|archived  |PS16dtm                 |01 58 04.70|-00 52 21.7|2019-01-10T21:41:56|ACIS-S  |NONE   |  10060.|GO  |Blanchard| 2020-01-11| 0.0132
+21461|observed  |PS16dtm                 |01 58 04.70|-00 52 21.7|2019-11-11T01:02:30|ACIS-S  |NONE   |  10060.|GO  |Blanchard| 2020-11-12| 0.0132
+22618|unobserved|PS16dtm                 |01 58 04.70|-00 52 21.7|2020-10-21T00:00:00|ACIS-S  |NONE   |  20000.|GO  |Blanchard|       null| 0.0132
+
+Number of rows:    5
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position AT2016ezh corresponds to J2000 decimal coordinates:29.519793 -0.872746
+----

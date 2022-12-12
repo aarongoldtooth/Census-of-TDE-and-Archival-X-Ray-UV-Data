@@ -1,0 +1,17 @@
+obsid|status  |name                  |ra         |dec        |time               |detector|grating|exposure|type|pi      |public_date|_offset
+17862|archived|CXO J215022.5-055108  |21 50 22.50|-05 51 09.0|2016-09-14T07:30:01|ACIS-S  |NONE   |  78120.|GO  |Lin     | 2017-09-16| 0.0016
+ 6791|archived|CNOC 2150-05GroupField| 21 50 44.0|-05 44 42.0|2006-09-28T20:48:50|ACIS-I  |NONE   | 101880.|GO  |Mulchaey| 2007-10-02| 8.3798
+
+Number of rows:    2
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position 3XMM J215022.4-055108 corresponds to J2000 decimal coordinates:327.593742 -5.852526
+----

@@ -1,0 +1,15 @@
+obsid|status|name|ra|dec|time|detector|grating|exposure|type|pi|public_date|_offset
+
+Number of rows:    0
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J234201.40+010629.2 corresponds to J2000 decimal coordinates:355.505852 1.108137
+----

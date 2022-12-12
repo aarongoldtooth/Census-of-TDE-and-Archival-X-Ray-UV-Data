@@ -1,0 +1,17 @@
+obsid     |status  |name                |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0804860201|archived|XMMSL2J140446.9-2511|14 04 46.67|-25 11 43.3|2018-07-17T12:02:31|   34300|Saxton  |Richard | 2020-01-22|Y              | 0.1471
+0804860301|archived|XMMSL2J140446.9-2511|14 04 46.67|-25 11 43.3|2019-01-10T04:42:26|   38000|Saxton  |Richard | 2020-01-22|Y              | 0.1471
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position XMMSL2 J140446.9-251135 corresponds to J2000 decimal coordinates:211.1955 -25.1931
+----

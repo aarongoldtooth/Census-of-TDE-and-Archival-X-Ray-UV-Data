@@ -1,0 +1,22 @@
+obsid|status  |name       |ra         |dec       |time               |detector|grating|exposure|type|pi    |public_date|_offset
+17566|archived|ASASSN-14li|12 48 15.20|17 46 26.2|2014-12-08T23:20:28|HRC-S   |LETG   |  35040.|DDT |Miller| 2014-12-10| 0.0089
+17567|archived|ASASSN-14li|12 48 15.20|17 46 26.2|2014-12-11T08:45:20|HRC-S   |LETG   |  44790.|DDT |Miller| 2014-12-12| 0.0089
+18345|archived|ASASSN-14li|12 48 15.20|17 46 26.5|2016-01-28T14:39:01|ACIS-S  |NONE   |  25060.|GO  |Maksym| 2017-01-29| 0.0077
+18346|archived|ASASSN-14li|12 48 15.20|17 46 26.5|2016-08-03T13:07:31|ACIS-S  |NONE   |  60070.|GO  |Maksym| 2017-08-04| 0.0077
+18347|archived|ASASSN-14li|12 48 15.20|17 46 26.5|2017-08-03T18:31:04|ACIS-S  |NONE   |  15070.|GO  |Maksym| 2018-08-06| 0.0077
+20127|archived|ASASSN-14li|12 48 15.20|17 46 26.5|2017-08-04T08:21:10|ACIS-S  |NONE   |  26610.|GO  |Maksym| 2018-08-06| 0.0077
+20128|archived|ASASSN-14li|12 48 15.20|17 46 26.5|2017-08-05T14:16:16|ACIS-S  |NONE   |  40070.|GO  |Maksym| 2018-08-06| 0.0077
+
+Number of rows:    7
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position ASASSN-14li corresponds to J2000 decimal coordinates:192.063464 17.774016
+----

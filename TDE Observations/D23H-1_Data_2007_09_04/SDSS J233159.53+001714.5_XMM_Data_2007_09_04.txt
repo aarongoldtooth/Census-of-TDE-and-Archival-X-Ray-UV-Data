@@ -1,0 +1,17 @@
+obsid     |status  |name |ra         |dec       |time               |duration|pi_lname  |pi_fname|public_date|data_in_heasarc|_offset
+0652401401|archived|DEEP2|23 32 04.49|00 07 40.4|2010-12-29T18:01:46|   39119|FINOGUENOV|ALEXIS  | 2012-01-31|Y              | 9.6501
+0652403001|archived|DEEP2|23 32 04.49|00 07 40.4|2010-12-29T15:22:30|    8429|FINOGUENOV|ALEXIS  | 2012-01-31|Y              | 9.6501
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position SDSS J233159.53+001714.5 corresponds to J2000 decimal coordinates:352.998058 0.287394
+----

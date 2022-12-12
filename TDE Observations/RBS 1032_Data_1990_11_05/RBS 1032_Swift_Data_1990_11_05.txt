@@ -1,0 +1,16 @@
+name |obsid      |ra        |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+3C266|00088215001|11 45 54.9|49 44 22.5|2018-01-21T07:19:57|2018-01-31T00:00:00|  1700.11200|   1700.01900|  1708.00000|  2018-02-01|15.0317
+
+Number of rows:    1
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position RBS 1032 corresponds to J2000 decimal coordinates:176.861217 49.716062
+----

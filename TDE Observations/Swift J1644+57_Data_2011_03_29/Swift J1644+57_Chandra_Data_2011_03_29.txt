@@ -1,0 +1,29 @@
+obsid|status  |name                  |ra         |dec       |time               |detector|grating|exposure|type|pi       |public_date|_offset
+15584|archived|Swift-J1644+57        | 16 44 50.0|57 34 59.7|2012-11-26T10:00:29|ACIS-S  |NONE   |  24970.|DDT |Tanvir   | 2012-11-27| 0.1723
+17125|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2016-01-29T16:20:26|ACIS-S  |NONE   |  27040.|GO  |Zauderer | 2017-10-04| 0.1645
+17604|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2016-04-03T01:05:52|ACIS-S  |NONE   |  24930.|GO  |Zauderer | 2017-10-04| 0.1645
+17605|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2016-06-16T12:00:13|ACIS-S  |NONE   |  24930.|GO  |Zauderer | 2017-10-04| 0.1645
+17606|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2016-10-03T21:50:19|ACIS-S  |NONE   |  24950.|GO  |Zauderer | 2017-10-04| 0.1645
+17607|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2015-08-22T21:22:52|ACIS-S  |NONE   |  19960.|GO  |Zauderer | 2017-10-04| 0.1645
+20092|archived|Swift J164449.3+573451|16 44 49.90|57 34 59.7|2018-02-05T13:54:58|ACIS-S  |NONE   |  20930.|GO  |Eftekhari| 2019-02-12| 0.1645
+20960|archived|Swift J164449.3+573451|16 44 49.90|57 34 59.7|2018-02-07T05:14:16|ACIS-S  |NONE   |  14560.|GO  |Eftekhari| 2019-02-12| 0.1645
+20961|archived|Swift J164449.3+573451|16 44 49.90|57 34 59.7|2018-02-11T23:17:08|ACIS-S  |NONE   |  12360.|GO  |Eftekhari| 2019-02-12| 0.1645
+20448|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2018-08-06T09:54:18|ACIS-S  |NONE   |  27560.|GO  |Eftekhari| 2019-08-07| 0.1645
+21667|archived|Sw1644+57             |16 44 49.90|57 34 59.7|2018-08-06T23:53:04|ACIS-S  |NONE   |  24060.|GO  |Eftekhari| 2019-08-07| 0.1645
+16091|archived|Swift J1644+57        |16 44 49.90|57 35 00.2|2015-02-17T04:32:22|ACIS-S  |NONE   |  28160.|GO  |Levan    | 2015-03-05| 0.1714
+17601|archived|Swift J1644+57        |16 44 49.90|57 35 00.2|2015-04-06T19:59:24|ACIS-S  |NONE   |  18950.|GO  |Levan    | 2015-04-07| 0.1714
+12920|archived|GRB110328A            |16 44 49.91|57 35 00.6|2011-04-04T02:30:14|HRC-I   |NONE   |  15480.|TOO |Levan    | 2011-04-04| 0.1777
+
+Number of rows:    14
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position Swift J1644+57 corresponds to J2000 decimal coordinates:251.205 57.581
+----

@@ -1,0 +1,17 @@
+obsid     |status  |name               |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0691100201|archived|2MASXJ06192755-6553|06 19 27.55|-65 53 07.9|2012-12-15T13:09:20|   31917|Saxton  |Richard | 2014-05-03|Y              | 0.0071
+0691100301|archived|2MASXJ06192755-6553|06 19 27.55|-65 53 07.9|2013-04-20T07:59:18|   42808|Saxton  |Richard | 2014-05-03|Y              | 0.0071
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position XMMSL1 J061927.1-655311 corresponds to J2000 decimal coordinates:94.865042 -65.885583
+----

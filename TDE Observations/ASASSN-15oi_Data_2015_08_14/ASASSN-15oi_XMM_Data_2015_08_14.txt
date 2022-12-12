@@ -1,0 +1,17 @@
+obsid     |status  |name       |ra        |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0722160501|archived|ASASSN-15oi|20 39 09.7|-30 45 21.0|2015-10-29T14:20:35|   17200|Gezari  |Suvi    | 2017-04-13|Y              | 0.0174
+0722160701|archived|ASASSN-15oi|20 39 09.7|-30 45 21.0|2016-04-04T15:13:26|   17000|Gezari  |Suvi    | 2017-04-13|Y              | 0.0174
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position ASASSN-15oi corresponds to J2000 decimal coordinates:309.788125 -30.75575
+----

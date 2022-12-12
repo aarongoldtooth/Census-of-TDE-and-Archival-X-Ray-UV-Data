@@ -1,0 +1,26 @@
+obsid     |status   |name       |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0601010101|archived |NGC 247 ULX|00 47 03.80|-20 47 46.2|2009-12-27T19:18:30|   34816|Feng    |Hua     | 2011-01-14|Y              | 2.4173
+0728190101|archived |NGC 247 ULX|00 47 03.88|-20 47 44.3|2014-07-01T04:20:39|   36700|Feng    |Hua     | 2015-07-16|Y              | 2.3796
+0844860101|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2019-12-03T12:41:51|  115500|Pinto   |Ciro    | 2020-12-30|N              | 2.3843
+0844860201|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2019-12-09T12:48:29|  118600|Pinto   |Ciro    | 2021-01-02|N              | 2.3843
+0844860301|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2019-12-31T05:16:29|  119600|Pinto   |Ciro    | 2021-01-26|N              | 2.3843
+0844860401|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2020-01-02T10:43:35|  120000|Pinto   |Ciro    | 2021-01-26|N              | 2.3843
+0844860501|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2020-01-04T10:52:05|  119000|Pinto   |Ciro    | 2021-01-26|N              | 2.3843
+0844860601|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2020-01-06T04:36:08|  115000|Pinto   |Ciro    | 2021-01-27|N              | 2.3843
+0844860701|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2020-01-08T11:42:23|  115000|Pinto   |Ciro    | 2021-02-02|N              | 2.3843
+0844860801|processed|NGC 247 ULX|00 47 03.80|-20 47 44.0|2020-01-12T03:59:00|   63200|Pinto   |Ciro    | 2021-02-02|N              | 2.3843
+0110990301|archived |NGC247     | 00 46 52.0|-20 43 29.0|2001-07-08T13:45:10|   16889|Watson  |Michael | 2002-09-04|Y              | 4.4218
+
+Number of rows:    11
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position NGC 247 corresponds to J2000 decimal coordinates:11.785625 -20.760389
+----

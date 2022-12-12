@@ -1,0 +1,18 @@
+obsid|status  |name    |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+ 3006|archived|NGC 5905|15 15 23.40|55 30 57.0|2002-10-04T00:47:57|ACIS-S  |NONE   |   9980.|GO  |Edelson| 2003-10-08| 0.0928
+ 7728|archived|NGC5905 |15 15 23.30|55 31 01.8|2007-06-07T09:26:01|ACIS-S  |NONE   |  44950.|GTO |Predehl| 2008-06-11| 0.0121
+ 8558|archived|NGC5905 |15 15 23.30|55 31 01.8|2007-06-09T01:50:39|ACIS-S  |NONE   |  26950.|GTO |Predehl| 2008-06-11| 0.0121
+
+Number of rows:    3
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position NGC 5905 corresponds to J2000 decimal coordinates:228.847173 55.517365
+----

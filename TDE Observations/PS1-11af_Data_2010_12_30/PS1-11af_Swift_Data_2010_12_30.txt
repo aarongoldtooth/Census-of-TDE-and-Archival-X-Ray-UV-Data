@@ -1,0 +1,16 @@
+name    |obsid      |ra         |dec       |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+PS1-11af|00010349001|09 57 29.22|03 14 20.9|2017-11-02T03:10:56|2017-11-12T00:00:00|  5205.13100|   5040.39000|  5234.00000|  2017-11-13| 0.6840
+
+Number of rows:    1
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position PS1-11af corresponds to J2000 decimal coordinates:149.36175 3.233611
+----

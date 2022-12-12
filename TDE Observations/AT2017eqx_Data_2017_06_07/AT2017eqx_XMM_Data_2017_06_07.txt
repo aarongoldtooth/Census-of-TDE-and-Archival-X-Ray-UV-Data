@@ -1,0 +1,16 @@
+obsid     |status  |name           |ra         |dec       |time               |duration|pi_lname   |pi_fname|public_date|data_in_heasarc|_offset
+0762470201|archived|RX J2227.2+1706|22 27 04.97|17 05 23.0|2015-05-20T08:39:33|   28400|Mroczkowski|Tony    | 2016-06-04|Y              | 5.2827
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position AT2017eqx corresponds to J2000 decimal coordinates:336.701542 17.147889
+----

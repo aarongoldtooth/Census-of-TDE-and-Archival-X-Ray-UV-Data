@@ -1,0 +1,17 @@
+obsid     |status  |name     |ra         |dec        |time               |duration|pi_lname     |pi_fname|public_date|data_in_heasarc|_offset
+0790181801|archived|OGLE16aaa|01 07 20.90|-64 16 21.0|2016-06-09T11:00:22|   15000|SCHARTEL (PS)|NORBERT | 2016-12-14|Y              | 2.0050
+0793183201|archived|OGLE16aaa|01 07 20.90|-64 16 21.0|2016-11-30T14:21:00|   36600|SCHARTEL (PS)|NORBERT | 2017-06-06|Y              | 2.0050
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position OGLE16aaa corresponds to J2000 decimal coordinates:16.837 -64.239083
+----

@@ -1,0 +1,19 @@
+obsid|status  |name        |ra         |dec       |time               |detector|grating|exposure|type|pi       |public_date|_offset
+ 3240|archived|RCS1419+5326|14 19 12.10|53 26 11.0|2002-12-19T00:03:45|ACIS-S  |NONE   |  10030.|GO  |Ellingson| 2003-12-31|13.4622
+ 5886|archived|RCS1419+5326|14 19 12.10|53 26 11.0|2005-09-17T17:33:40|ACIS-S  |NONE   |  48180.|GTO |Garmire  | 2006-09-21|13.4622
+ 4757|archived|RXJ1420+5334|14 20 24.20|53 34 11.0|2004-07-28T17:35:00|ACIS-S  |NONE   |   6580.|GTO |Predehl  | 2005-10-12| 0.0921
+ 6127|archived|RXJ1420+5334|14 20 24.20|53 34 11.0|2004-09-29T14:22:27|ACIS-S  |NONE   |   3170.|GTO |Predehl  | 2005-10-12| 0.0921
+
+Number of rows:    4
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position RX J1420.4+5334 corresponds to J2000 decimal coordinates:215.1022 53.571022
+----

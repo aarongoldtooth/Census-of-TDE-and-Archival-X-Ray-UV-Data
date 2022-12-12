@@ -1,0 +1,16 @@
+obsid     |status  |name |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0086950201|archived|A3571|13 47 28.90|-32 51 57.0|2002-07-29T11:05:00|   33642|Dupke   |Renato  | 2003-08-29|Y              | 2.9435
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position LEDA 095953 corresponds to J2000 decimal coordinates:206.875345 -32.914712
+----

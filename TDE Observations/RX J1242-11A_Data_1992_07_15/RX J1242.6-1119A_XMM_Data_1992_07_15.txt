@@ -1,0 +1,16 @@
+obsid     |status  |name   |ra         |dec        |time               |duration|pi_lname            |pi_fname|public_date|data_in_heasarc|_offset
+0136950201|archived|RXJ1242|12 42 38.48|-11 19 21.0|2001-06-21T19:19:52|   30101|Jansen XMM-Newton PS|Fred    | 2001-06-21|Y              | 0.0294
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position RX J1242.6-1119A corresponds to J2000 decimal coordinates:190.660548 -11.32205
+----

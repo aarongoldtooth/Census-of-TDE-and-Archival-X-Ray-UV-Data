@@ -1,0 +1,18 @@
+obsid|status  |name                   |ra         |dec       |time               |detector|grating|exposure|type|pi     |public_date|_offset
+ 9814|archived|SDSSJ0952+2143         |09 52 09.60|21 43 13.3|2008-02-05T16:21:21|ACIS-S  |NONE   |   9910.|DDT |Komossa| 2008-02-06| 0.0085
+10727|archived|SDSSJ095209.56+214313.3|09 52 09.60|21 43 13.3|2009-03-15T14:05:58|ACIS-S  |NONE   |  16950.|GTO |Predehl| 2010-03-16| 0.0085
+10728|archived|SDSSJ095209.56+214313.3|09 52 09.60|21 43 13.3|2009-10-06T01:43:16|ACIS-S  |NONE   |  17160.|GTO |Predehl| 2010-10-08| 0.0085
+
+Number of rows:    3
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position SDSS J095209.56+214313.3 corresponds to J2000 decimal coordinates:148.039847 21.720364
+----

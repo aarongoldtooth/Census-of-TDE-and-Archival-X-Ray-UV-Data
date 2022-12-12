@@ -1,0 +1,16 @@
+obsid     |status  |name                |ra         |dec       |time               |duration|pi_lname |pi_fname|public_date|data_in_heasarc|_offset
+0841710101|archived|SDSSJ204259.7+152108|20 42 59.69|15 21 08.0|2019-05-20T17:57:57|   28000|Maccarone|Thomas  | 2020-06-11|Y              |10.0696
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position PS1-10adi corresponds to J2000 decimal coordinates:310.686454 15.508956
+----

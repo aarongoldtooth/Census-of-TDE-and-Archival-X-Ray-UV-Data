@@ -1,0 +1,19 @@
+obsid|status  |name          |ra         |dec       |time               |detector|grating|exposure|type|pi   |public_date|_offset
+13423|archived|Swift J2058   |20 58 19.90|05 13 32.2|2011-06-22T14:50:35|HRC-I   |NONE   |   5190.|DDT |Cenko| 2011-06-23| 0.0184
+14975|archived|Swift2058+0516|20 58 19.80|05 13 33.0|2013-04-01T19:19:44|ACIS-S  |NONE   |  29960.|GO  |Levan| 2014-04-02| 0.0124
+14976|archived|Swift2058+0516|20 58 19.80|05 13 33.0|2013-11-01T15:19:33|ACIS-S  |NONE   |  19970.|GO  |Levan| 2014-11-04| 0.0124
+16498|archived|Swift2058+0516|20 58 19.80|05 13 33.0|2013-10-29T23:18:05|ACIS-S  |NONE   |  29910.|GO  |Levan| 2014-11-04| 0.0124
+
+Number of rows:    4
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position Swift J205819.7+051329 corresponds to J2000 decimal coordinates:314.582708 5.225833
+----

@@ -1,0 +1,176 @@
+obsid|status    |name                |ra         |dec       |time               |detector|grating|exposure|type|pi         |public_date|_offset
+17612|archived  |Abell 1795 outskirts| 13 50 02.2|26 24 41.7|2016-12-03T12:47:26|ACIS-I  |NONE   |  60040.|GO  |Vikhlinin  | 2016-12-05|19.6821
+17618|archived  |Abell 1795 outskirts|13 47 30.83|26 26 16.0|2016-09-01T09:37:21|ACIS-I  |NONE   |  60080.|GO  |Vikhlinin  | 2016-09-07|20.1656
+10432|archived  |A1795               |13 49 27.80|26 27 32.3|2009-03-16T13:18:16|ACIS-I  |NONE   |   5170.|GO  |Maughan    | 2010-03-17|11.9515
+  493|archived  |A1795               |13 48 52.70|26 35 27.0|2000-03-21T07:53:45|ACIS-S  |NONE   |  19880.|GTO |Fabian     | 2001-04-27| 0.8098
+  494|archived  |A1795               |13 48 52.70|26 35 27.0|1999-12-20T04:59:53|ACIS-S  |NONE   |  19770.|GTO |Fabian     | 2001-01-12| 0.8098
+ 3666|archived  |A1795               |13 48 52.70|26 35 27.0|2002-06-10T16:20:15|ACIS-S  |NONE   |  14610.|CAL |Calibration| 2002-06-11| 0.8098
+ 5286|archived  |A1795               |13 48 52.70|26 35 27.0|2004-01-14T11:48:08|ACIS-S  |NONE   |  14490.|CAL |Calibration| 2004-01-16| 0.8098
+ 5287|archived  |A1795               |13 48 52.70|26 35 27.0|2004-01-14T16:14:57|ACIS-S  |NONE   |  14490.|CAL |Calibration| 2004-01-20| 0.8098
+ 5288|archived  |A1795               |13 48 52.70|26 35 27.0|2004-01-16T06:14:22|ACIS-S  |NONE   |  14760.|CAL |Calibration| 2004-01-20| 0.8098
+ 5289|archived  |A1795               |13 48 52.70|26 35 27.0|2004-01-18T14:45:32|ACIS-I  |NONE   |  15150.|CAL |Calibration| 2004-01-23| 0.8098
+ 5290|archived  |A1795               |13 48 52.70|26 35 27.0|2004-01-23T20:53:33|ACIS-I  |NONE   |  15140.|CAL |Calibration| 2004-01-26| 0.8098
+ 6159|archived  |A1795               |13 48 52.70|26 35 27.0|2005-03-20T07:49:16|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2005-03-21| 0.8098
+ 6160|archived  |A1795               |13 48 52.70|26 35 27.0|2005-03-20T12:20:53|ACIS-S  |NONE   |  15040.|CAL |Calibration| 2005-03-21| 0.8098
+ 6161|archived  |A1795               |13 48 52.70|26 35 27.0|2005-03-28T04:14:26|ACIS-I  |NONE   |  13770.|CAL |Calibration| 2005-04-01| 0.8098
+ 6162|archived  |A1795               |13 48 52.70|26 35 27.0|2005-03-28T08:28:44|ACIS-I  |NONE   |  13780.|CAL |Calibration| 2005-03-29| 0.8098
+ 6163|archived  |A1795               |13 48 52.70|26 35 27.0|2005-03-31T02:54:56|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2005-04-04| 0.8098
+10898|archived  |Abell 1795          |13 48 52.70|26 35 27.0|2009-04-20T11:04:35|ACIS-I  |NONE   |  15950.|CAL |Calibration| 2009-04-21| 0.8098
+10899|archived  |Abell 1795          |13 48 52.70|26 35 27.0|2009-04-22T22:09:06|ACIS-I  |NONE   |  15120.|CAL |Calibration| 2009-04-23| 0.8098
+10900|archived  |Abell 1795          |13 48 52.70|26 35 27.0|2009-04-20T01:44:15|ACIS-S  |NONE   |  16030.|CAL |Calibration| 2009-04-20| 0.8098
+10901|archived  |Abell 1795          |13 48 52.70|26 35 27.0|2009-04-20T06:31:03|ACIS-S  |NONE   |  15670.|CAL |Calibration| 2009-04-21| 0.8098
+12026|archived  |A1795               |13 48 52.70|26 35 27.0|2010-05-11T00:35:31|ACIS-I  |NONE   |  15120.|CAL |Calibration| 2010-05-12| 0.8098
+12027|archived  |A1795               |13 48 52.70|26 35 27.0|2010-03-16T18:35:14|ACIS-I  |NONE   |  15040.|CAL |Calibration| 2010-03-18| 0.8098
+12028|archived  |A1795               |13 48 52.70|26 35 27.0|2010-05-10T13:26:51|ACIS-S  |NONE   |  15170.|CAL |Calibration| 2010-05-11| 0.8098
+12029|archived  |A1795               |13 48 52.70|26 35 27.0|2010-04-28T09:18:50|ACIS-S  |NONE   |  14890.|CAL |Calibration| 2010-04-29| 0.8098
+13106|archived  |A1795               |13 48 52.70|26 35 27.0|2011-04-01T14:29:57|ACIS-S  |NONE   |  10040.|CAL |Calibration| 2011-04-03| 0.8098
+13107|archived  |A1795               |13 48 52.70|26 35 27.0|2011-04-01T17:34:41|ACIS-S  |NONE   |   9770.|CAL |Calibration| 2011-04-03| 0.8098
+13108|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-10T19:51:24|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2011-03-11| 0.8098
+13109|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-11T00:23:23|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2011-03-11| 0.8098
+13110|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-11T04:41:52|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2011-03-11| 0.8098
+13111|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-11T17:37:23|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2011-03-14| 0.8098
+13112|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-11T09:00:22|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2011-03-15| 0.8098
+13113|archived  |A1795               |13 48 52.70|26 35 27.0|2011-03-11T13:18:53|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2011-03-14| 0.8098
+13416|archived  |Abell 1795          |13 48 52.70|26 35 27.0|2011-05-30T01:00:36|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2011-05-31| 0.8098
+14268|archived  |A1795               |13 48 52.70|26 35 27.0|2012-03-26T08:16:22|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2012-03-27| 0.8098
+14269|archived  |A1795               |13 48 52.70|26 35 27.0|2012-04-08T12:02:36|ACIS-S  |NONE   |  10070.|CAL |Calibration| 2012-04-10| 0.8098
+14270|archived  |A1795               |13 48 52.70|26 35 27.0|2012-03-25T15:11:16|ACIS-I  |NONE   |  14470.|CAL |Calibration| 2012-03-26| 0.8098
+14271|archived  |A1795               |13 48 52.70|26 35 27.0|2012-03-25T19:30:40|ACIS-I  |NONE   |  14160.|CAL |Calibration| 2012-03-28| 0.8098
+14272|archived  |A1795               |13 48 52.70|26 35 27.0|2012-03-25T23:38:59|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2012-03-27| 0.8098
+14273|archived  |A1795               |13 48 52.70|26 35 27.0|2012-03-26T03:57:29|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2012-03-29| 0.8098
+14274|archived  |A1795               |13 48 52.70|26 35 27.0|2012-04-02T07:22:14|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2012-04-03| 0.8098
+14275|archived  |A1795               |13 48 52.70|26 35 27.0|2012-04-07T15:47:16|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2012-04-09| 0.8098
+15485|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-21T21:00:46|ACIS-S  |NONE   |  10070.|CAL |Calibration| 2013-04-23| 0.8098
+15486|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-22T00:06:27|ACIS-S  |NONE   |   9810.|CAL |Calibration| 2013-04-23| 0.8098
+15487|archived  |A1795               |13 48 52.70|26 35 27.0|2013-06-02T21:28:38|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2013-06-03| 0.8098
+15488|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-10T02:42:51|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2013-04-11| 0.8098
+15489|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-08T12:12:44|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2013-04-09| 0.8098
+15490|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-17T12:57:32|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2013-04-22| 0.8098
+15491|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-18T14:29:21|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2013-04-22| 0.8098
+15492|archived  |A1795               |13 48 52.70|26 35 27.0|2013-04-15T16:28:58|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2013-04-16| 0.8098
+16432|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-02T16:27:42|ACIS-S  |NONE   |  10070.|CAL |Calibration| 2014-04-03| 0.8098
+16433|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-09T21:36:40|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2014-04-10| 0.8098
+16434|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-02T19:33:37|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2014-04-03| 0.8098
+16435|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-03T00:10:54|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2014-04-04| 0.8098
+16436|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-03T04:29:24|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2014-04-04| 0.8098
+16437|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-03T08:47:53|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2014-04-04| 0.8098
+16438|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-13T23:03:02|ACIS-I  |NONE   |  14890.|CAL |Calibration| 2014-04-14| 0.8098
+16439|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-13T18:44:32|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2014-04-15| 0.8098
+16465|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-12T19:00:00|ACIS-S  |NONE   |   9770.|CAL |Calibration| 2014-04-13| 0.8098
+16466|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-12T14:18:22|ACIS-S  |NONE   |  15070.|CAL |Calibration| 2014-04-15| 0.8098
+16467|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-13T14:26:02|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2014-04-14| 0.8098
+16468|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-13T09:53:15|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2014-04-15| 0.8098
+16469|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-15T09:24:44|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2014-04-15| 0.8098
+16470|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-15T13:55:39|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2014-04-16| 0.8098
+16471|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-20T22:42:26|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2014-04-21| 0.8098
+16472|archived  |A1795               |13 48 52.70|26 35 27.0|2014-04-17T07:22:27|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2014-04-18| 0.8098
+17397|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-16T03:08:31|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2015-04-16| 0.8098
+17398|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-11T06:55:10|ACIS-S  |NONE   |  10050.|CAL |Calibration| 2015-04-11| 0.8098
+17399|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-07T13:01:13|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2015-04-08| 0.8098
+17400|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-07T17:32:26|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2015-04-08| 0.8098
+17401|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-07T21:50:56|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2015-04-08| 0.8098
+17402|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-08T02:09:26|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2015-04-08| 0.8098
+17403|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-08T10:46:27|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2015-04-10| 0.8098
+17404|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-07T01:44:05|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2015-04-07| 0.8098
+17405|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-06T16:36:08|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2015-04-07| 0.8098
+17406|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-08T15:04:56|ACIS-I  |NONE   |  14890.|CAL |Calibration| 2015-04-09| 0.8098
+17407|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-18T08:26:32|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2015-04-21| 0.8098
+17408|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-18T13:00:48|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2015-04-19| 0.8098
+17409|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-18T17:19:18|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2015-04-21| 0.8098
+17410|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-08T06:27:57|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2015-04-09| 0.8098
+17411|archived  |A1795               |13 48 52.70|26 35 27.0|2015-04-15T02:49:16|ACIS-I  |NONE   |  14080.|CAL |Calibration| 2015-04-15| 0.8098
+17683|archived  |abell 1795          |13 48 52.70|26 35 27.0|2015-07-20T17:53:32|ACIS-I  |NONE   |  14020.|CAL |Calibration| 2015-07-21| 0.8098
+17684|archived  |abell 1795          |13 48 52.70|26 35 27.0|2015-07-23T03:47:05|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2015-07-24| 0.8098
+17685|archived  |abell 1795          |13 48 52.70|26 35 27.0|2015-07-20T07:02:07|ACIS-S  |NONE   |  10030.|CAL |Calibration| 2015-07-21| 0.8098
+17686|archived  |abell 1795          |13 48 52.70|26 35 27.0|2015-07-20T12:29:42|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2015-07-21| 0.8098
+18423|archived  |A1795               |13 48 52.70|26 35 27.0|2015-12-06T22:32:38|ACIS-S  |NONE   |  10050.|CAL |Calibration| 2015-12-07| 0.8098
+18424|archived  |A1795               |13 48 52.70|26 35 27.0|2015-12-03T12:00:28|ACIS-I  |NONE   |  15550.|CAL |Calibration| 2015-12-04| 0.8098
+18425|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-08T07:38:54|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2016-04-09| 0.8098
+18426|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-08T15:10:16|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2016-04-09| 0.8098
+18427|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-08T18:19:21|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2016-04-10| 0.8098
+18428|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-07T13:17:44|ACIS-I  |NONE   |  14900.|CAL |Calibration| 2016-04-08| 0.8098
+18429|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-08T22:56:38|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2016-04-11| 0.8098
+18430|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-09T14:43:05|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2016-04-10| 0.8098
+18431|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-10T01:05:00|ACIS-I  |NONE   |  14210.|CAL |Calibration| 2016-04-11| 0.8098
+18432|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-12T01:48:26|ACIS-I  |NONE   |  15080.|CAL |Calibration| 2016-04-13| 0.8098
+18433|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-12T06:19:35|ACIS-S  |NONE   |  10060.|CAL |Calibration| 2016-04-13| 0.8098
+18434|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-12T09:33:21|ACIS-I  |NONE   |  15370.|CAL |Calibration| 2016-04-13| 0.8098
+18435|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-14T02:25:11|ACIS-I  |NONE   |  14350.|CAL |Calibration| 2016-04-15| 0.8098
+18436|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-15T04:36:04|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2016-04-15| 0.8098
+18437|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-16T19:31:05|ACIS-I  |NONE   |  15070.|CAL |Calibration| 2016-04-19| 0.8098
+18438|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-17T00:12:08|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2016-04-17| 0.8098
+18439|archived  |A1795               |13 48 52.70|26 35 27.0|2016-04-17T04:30:38|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2016-04-17| 0.8098
+19868|archived  |A1795               |13 48 52.70|26 35 27.0|2016-11-23T13:52:19|ACIS-S  |NONE   |  16080.|CAL |Calibration| 2016-11-24| 0.8098
+19869|archived  |A1795               |13 48 52.70|26 35 27.0|2016-11-25T17:13:02|ACIS-I  |NONE   |  20560.|CAL |Calibration| 2016-12-06| 0.8098
+19870|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-08T16:27:56|ACIS-I  |NONE   |  19790.|CAL |Calibration| 2017-04-09| 0.8098
+19871|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-05T19:25:21|ACIS-I  |NONE   |  25180.|CAL |Calibration| 2017-04-06| 0.8098
+19872|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-03T17:00:29|ACIS-I  |NONE   |  24080.|CAL |Calibration| 2017-04-13| 0.8098
+19873|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-09T12:47:30|ACIS-I  |NONE   |  24770.|CAL |Calibration| 2017-04-10| 0.8098
+19874|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-18T20:37:53|ACIS-I  |NONE   |  25060.|CAL |Calibration| 2017-04-19| 0.8098
+19875|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-22T10:01:10|ACIS-I  |NONE   |  25770.|CAL |Calibration| 2017-04-24| 0.8098
+19876|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-17T09:24:35|ACIS-I  |NONE   |  23560.|CAL |Calibration| 2017-04-20| 0.8098
+19877|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-23T01:35:02|ACIS-S  |NONE   |  15060.|CAL |Calibration| 2017-04-24| 0.8098
+19878|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-19T04:17:13|ACIS-S  |NONE   |  19060.|CAL |Calibration| 2017-04-19| 0.8098
+19879|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-27T22:58:21|ACIS-S  |NONE   |  20050.|CAL |Calibration| 2017-04-28| 0.8098
+19880|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-28T04:52:23|ACIS-S  |NONE   |  14770.|CAL |Calibration| 2017-04-28| 0.8098
+19881|archived  |A1795               |13 48 52.70|26 35 27.0|2017-04-29T17:36:32|ACIS-S  |NONE   |  20060.|CAL |Calibration| 2017-04-30| 0.8098
+19968|archived  |A1795               |13 48 52.70|26 35 27.0|2017-11-19T02:55:11|ACIS-S  |NONE   |  15060.|CAL |Calibration| 2017-11-19| 0.8098
+19969|archived  |A1795               |13 48 52.70|26 35 27.0|2017-12-01T07:02:57|ACIS-I  |NONE   |  20060.|CAL |Calibration| 2017-12-05| 0.8098
+20642|archived  |A1795               |13 48 52.70|26 35 27.0|2018-11-16T09:37:52|ACIS-S  |NONE   |  15050.|CAL |Calibration| 2018-11-19| 0.8098
+20643|archived  |A1795               |13 48 52.70|26 35 27.0|2018-11-25T15:43:15|ACIS-I  |NONE   |  20070.|CAL |Calibration| 2018-11-26| 0.8098
+20644|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-13T13:17:23|ACIS-I  |NONE   |  19560.|CAL |Calibration| 2018-04-14| 0.8098
+20645|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-11T20:22:45|ACIS-I  |NONE   |  23080.|CAL |Calibration| 2018-04-12| 0.8098
+20646|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-16T19:30:04|ACIS-I  |NONE   |  25060.|CAL |Calibration| 2018-04-17| 0.8098
+20647|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-22T20:04:29|ACIS-I  |NONE   |  25070.|CAL |Calibration| 2018-04-23| 0.8098
+20648|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-15T05:31:17|ACIS-I  |NONE   |  25150.|CAL |Calibration| 2018-04-16| 0.8098
+20649|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-12T09:04:21|ACIS-I  |NONE   |  23070.|CAL |Calibration| 2018-04-16| 0.8098
+20650|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-19T19:44:20|ACIS-I  |NONE   |  25070.|CAL |Calibration| 2018-04-23| 0.8098
+20651|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-12T17:24:22|ACIS-S  |NONE   |  14700.|CAL |Calibration| 2018-04-16| 0.8098
+20652|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-23T05:31:32|ACIS-S  |NONE   |  19040.|CAL |Calibration| 2018-04-24| 0.8098
+20653|archived  |A1795               |13 48 52.70|26 35 27.0|2018-04-27T08:21:33|ACIS-S  |NONE   |  20050.|CAL |Calibration| 2018-04-30| 0.8098
+21830|archived  |A1795               |13 48 52.70|26 35 27.0|2019-11-29T12:39:01|ACIS-S  |NONE   |  15050.|CAL |Calibration| 2019-11-30| 0.8098
+21831|archived  |A1795               |13 48 52.70|26 35 27.0|2019-11-26T21:06:24|ACIS-I  |NONE   |  20060.|CAL |Calibration| 2019-11-29| 0.8098
+21832|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-08T21:43:13|ACIS-I  |NONE   |  20080.|CAL |Calibration| 2019-04-09| 0.8098
+21833|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-01T22:43:43|ACIS-I  |NONE   |  25840.|CAL |Calibration| 2019-04-04| 0.8098
+21834|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-08T03:47:16|ACIS-I  |NONE   |  25070.|CAL |Calibration| 2019-04-09| 0.8098
+21835|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-16T20:14:19|ACIS-I  |NONE   |  25080.|CAL |Calibration| 2019-04-17| 0.8098
+21836|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-18T17:57:59|ACIS-I  |NONE   |  24070.|CAL |Calibration| 2019-04-19| 0.8098
+21837|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-19T22:11:48|ACIS-I  |NONE   |  24060.|CAL |Calibration| 2019-04-21| 0.8098
+21838|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-20T12:12:53|ACIS-I  |NONE   |  24370.|CAL |Calibration| 2019-04-21| 0.8098
+21839|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-02T20:52:52|ACIS-S  |NONE   |  15050.|CAL |Calibration| 2019-04-03| 0.8098
+21840|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-19T01:00:50|ACIS-S  |NONE   |  18810.|CAL |Calibration| 2019-04-19| 0.8098
+21841|archived  |A1795               |13 48 52.70|26 35 27.0|2019-04-26T21:09:35|ACIS-S  |NONE   |  20060.|CAL |Calibration| 2019-04-27| 0.8098
+22829|unobserved|A1795               |13 48 52.70|26 35 27.0|2020-12-03T00:00:00|ACIS-S  |NONE   |  15000.|CAL |Calibration|       null| 0.8098
+22830|unobserved|A1795               |13 48 52.70|26 35 27.0|2020-12-03T00:00:00|ACIS-I  |NONE   |  20000.|CAL |Calibration|       null| 0.8098
+22831|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-13T19:31:34|ACIS-I  |NONE   |  19070.|CAL |Calibration| 2020-04-14| 0.8098
+22832|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-16T00:24:00|ACIS-I  |NONE   |  25070.|CAL |Calibration| 2020-04-16| 0.8098
+22833|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-16T19:15:18|ACIS-I  |NONE   |  24240.|CAL |Calibration| 2020-04-17| 0.8098
+22834|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-18T05:34:24|ACIS-I  |NONE   |  25060.|CAL |Calibration| 2020-04-18| 0.8098
+22835|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-17T15:45:34|ACIS-I  |NONE   |  25060.|CAL |Calibration| 2020-04-18| 0.8098
+22836|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-18T21:57:10|ACIS-I  |NONE   |  25070.|CAL |Calibration| 2020-04-20| 0.8098
+22837|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-15T06:57:14|ACIS-I  |NONE   |  23070.|CAL |Calibration| 2020-04-16| 0.8098
+22838|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-15T13:42:23|ACIS-S  |NONE   |  14060.|CAL |Calibration| 2020-04-16| 0.8098
+22839|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-14T05:20:42|ACIS-S  |NONE   |  19640.|CAL |Calibration| 2020-04-15| 0.8098
+22840|archived  |A1795               |13 48 52.70|26 35 27.0|2020-04-19T08:54:11|ACIS-S  |NONE   |  20050.|CAL |Calibration| 2020-04-20| 0.8098
+13412|archived  |Abell 1795          |13 48 52.56|26 35 27.6|2011-05-22T18:14:00|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2011-05-24| 0.7793
+13413|archived  |Abell 1795          |13 48 52.56|26 35 27.6|2011-05-29T11:52:15|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2011-06-01| 0.7793
+13414|archived  |Abell 1795          |13 48 52.56|26 35 27.6|2011-05-29T16:23:35|ACIS-I  |NONE   |  14770.|CAL |Calibration| 2011-05-31| 0.7793
+13415|archived  |Abell 1795          |13 48 52.56|26 35 27.6|2011-05-29T20:42:06|ACIS-I  |NONE   |  14780.|CAL |Calibration| 2011-05-31| 0.7793
+13417|archived  |Abell 1795          |13 48 52.56|26 35 27.6|2011-06-02T08:43:18|ACIS-I  |NONE   |  15050.|CAL |Calibration| 2011-06-03| 0.7793
+17228|archived  |Abell 1795 outskirts|13 48 52.30|26 35 36.2|2017-05-07T15:38:19|ACIS-I  |NONE   |  60070.|GO  |Vikhlinin  | 2017-05-08| 0.6472
+10433|archived  |A1795               |13 48 11.46|26 44 36.2|2009-03-23T20:58:08|ACIS-I  |NONE   |   5170.|GO  |Maughan    | 2010-03-24|12.1814
+19972|archived  |Abell 1795 outskirts|13 47 56.31|26 51 32.1|2017-04-08T06:55:46|ACIS-I  |NONE   |  33070.|GO  |Vikhlinin  | 2017-04-09|19.6389
+
+Number of rows:    161
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position WINGS J134849.88+263557.5 corresponds to J2000 decimal coordinates:207.207833 26.599306
+----

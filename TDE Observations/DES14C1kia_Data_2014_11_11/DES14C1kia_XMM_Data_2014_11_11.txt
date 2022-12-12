@@ -1,0 +1,17 @@
+obsid     |status  |name      |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0722160401|archived|DES14C1kia|03 34 47.49|-26 19 36.0|2015-02-26T17:26:23|   15000|Gezari  |Suvi    | 2016-03-15|Y              | 0.0163
+0722160301|archived|DES14C1kia|03 34 47.49|-26 19 35.0|2015-01-12T06:57:17|   18000|Gezari  |Suvi    | 2016-03-15|Y              | 0.0006
+
+Number of rows:    2
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position DES14C1kia corresponds to J2000 decimal coordinates:53.697875 -26.326389
+----
