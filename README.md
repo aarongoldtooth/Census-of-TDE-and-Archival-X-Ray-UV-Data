@@ -47,6 +47,7 @@ The documentation here is used to create a catalog of known Tidal Disruption Eve
 
 ### Dependencies
 Python version 3.9.12
+
 Third Party modules can be found in 'requirements.txt'
 
 ### Installation/Running
