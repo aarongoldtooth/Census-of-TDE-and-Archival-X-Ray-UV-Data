@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/576717166.svg)](https://zenodo.org/badge/latestdoi/576717166)
+
 # Census of TDE and Archival X-Ray/UV Data
 Repository for research documents used in "A Census of Archival X-ray Spectra for Modeling Tidal Disruption Events"
 
@@ -84,7 +86,7 @@ MIT License: https://github.com/aarongoldtooth/Census-of-TDE-and-Archival-X-Ray-
 
 ---
 ## Citation
-Repository DOI:
+Repository DOI: [![DOI](https://zenodo.org/badge/576717166.svg)](https://zenodo.org/badge/latestdoi/576717166)
 
 Paper DOI:
 
