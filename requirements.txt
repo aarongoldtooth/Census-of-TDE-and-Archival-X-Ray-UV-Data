@@ -1,0 +1,6 @@
+pandas==1.4.2
+matplotlib==3.5.1
+numpy==1.21.5
+scipy==1.7.3
+csv==1.0
+selenium==4.3.0
