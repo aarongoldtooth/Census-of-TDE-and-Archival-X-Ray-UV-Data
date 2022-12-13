@@ -46,7 +46,8 @@ The documentation here is used to create a catalog of known Tidal Disruption Eve
 ## Running Code
 
 ### Dependencies
-
+Python version 3.9.12
+Third Party modules can be found in 'requirements.txt'
 
 ### Installation/Running
 
@@ -89,3 +90,4 @@ Paper DOI:
 ---
 ## Contact
 Aaron Goldtooth [orcid](https://orcid.org/0000-0001-9695-4121)
+   - email: gold1992(at_sign)arizona.edu
