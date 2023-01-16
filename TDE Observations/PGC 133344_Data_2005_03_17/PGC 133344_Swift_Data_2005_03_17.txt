@@ -1,0 +1,16 @@
+name        |obsid      |ra         |dec        |start_time         |processing_date    |xrt_exposure|uvot_exposure|bat_exposure|archive_date|_offset
+J2143.0-3005|07022200001|21 42 55.45|-30 04 53.8|2019-10-01T19:58:05|2019-10-11T00:00:00|    77.71700|     75.34400|    83.00000|  2019-10-12| 3.0652
+
+Number of rows:    1
+Number of columns: 11
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 25' from swiftmastr
+----
+----
+Info: Name resolution
+Position PGC 133344 corresponds to J2000 decimal coordinates:325.733208 -30.132667
+----

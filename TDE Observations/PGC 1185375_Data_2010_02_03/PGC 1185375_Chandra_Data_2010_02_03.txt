@@ -1,0 +1,17 @@
+obsid|status  |name      |ra         |dec       |time               |detector|grating|exposure|type|pi   |public_date|_offset
+11330|archived|PGC1179083| 15 04 24.0|00 55 06.2|2010-09-09T20:35:01|ACIS-S  |NONE   |   9960.|GO  |Gallo| 2010-09-10|15.0761
+11314|archived|NGC5831   |15 03 58.69|01 10 24.2|2010-09-16T14:07:08|ACIS-S  |NONE   |  10350.|GO  |Gallo| 2010-09-17| 3.4896
+
+Number of rows:    2
+Number of columns: 13
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 21' from chanmaster
+----
+----
+Info: Name resolution
+Position PGC 1185375 corresponds to J2000 decimal coordinates:225.959664 1.126831
+----

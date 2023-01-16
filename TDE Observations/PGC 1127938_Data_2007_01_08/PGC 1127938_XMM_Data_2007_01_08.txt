@@ -1,0 +1,16 @@
+obsid     |status  |name          |ra         |dec        |time               |duration|pi_lname|pi_fname|public_date|data_in_heasarc|_offset
+0153170101|archived|MS 0116.3-0115|01 18 53.60|-01 00 07.0|2003-07-11T21:48:26|   22204|Lewis   |Aaron   | 2004-09-09|Y              | 3.1710
+
+Number of rows:    1
+Number of columns: 12
+
+
+---- Messages ----
+----
+Info: Search Radius
+Search radius: 15' from xmmmaster
+----
+----
+Info: Name resolution
+Position PGC 1127938 corresponds to J2000 decimal coordinates:19.735642 -1.053342
+----
