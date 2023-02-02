@@ -111,9 +111,12 @@ def tde_date_list_func(file_name_with_directory):
 
         delta_date = observation_date - file_tde_date  # difference between epoch and discovery dates
         delta_date = delta_date.days  # output from "# days, XX:XX:XX" to "#" of days
-
-        tde_dates.append(delta_date)
-        tde_dates_str.append(observation_date.isoformat())
+        
+        ### REDONE (excludes dt's < 0)
+        if delta_date >= 0:
+            tde_dates.append(delta_date)
+            tde_dates_str.append(observation_date.isoformat())
+        ###
         
     return file_telescope_source_name, tde_dates, tde_dates_str
 
@@ -177,11 +180,11 @@ def master_func(base_directory, master_folder):
             
             # for marker color
             if date_list[0]=="xmm": 
-                marker_color = 'm'
+                marker_color = 'tab:blue'
             if date_list[0]=="chandra": 
-                marker_color = 'y'
+                marker_color = 'tab:orange'
             if date_list[0]=="swift": 
-                marker_color = 'c'
+                marker_color = 'tab:green'
             
     
             master_list.append([tde_name, marker_color, m, n, date_list])
@@ -230,6 +233,14 @@ for items in tde_delta_dates_with_i_value_list:
 
     '''Define x,y variables to be plotted'''
     x = [int(date) for date in tde_delta_dates_2]
+    new_x = []
+            
+            for dt in x:
+                if dt==0:
+                    # print("dt=0")
+                    dt=0.75
+                new_x.append(dt)
+            # print(new_x)
     
     if file_telescope_source_name=="xmm":
         y=[0]*len(tde_delta_dates_2)
@@ -241,6 +252,7 @@ for items in tde_delta_dates_with_i_value_list:
 
     """Set axes"""
 #     axs[plot_index].set_xticks([1,10,100,1000,10000], ['$10^0$', '$10^1$', '$10^2$', '$10^3$', '$10^4$'])
+    axs[plot_index].set_xticks([0.75, 1,10,100,1e3,1e4,1e5])
     axs[plot_index].set_xscale('log')
     
     axs[plot_index].set_yticks([0,1,2])
@@ -248,7 +260,7 @@ for items in tde_delta_dates_with_i_value_list:
     axs[0].set_yticklabels(['Chandra','Swift','XMM'])  # for first plot
     
     axs[plot_index].set_ylim(-.5,2.5)
-    axs[plot_index].set_xlim(1, 100000)
+    axs[plot_index].set_xlim(0.75, 1e5)
     
     """Plot settings"""
     plt.rcParams['figure.figsize'] = (16,24*8)
@@ -260,6 +272,10 @@ for items in tde_delta_dates_with_i_value_list:
 #     plt.grid(True)
 #     if plot_subindex == 0:
 #         axs[plot_index].grid()
+
+    plt.xticks([0.75, 1,10,100,1e3,1e4,1e5]
+                       , [r"$0$",r"$1$" ,r"$10^1$", r"$10^2$", r"$10^3$", r"$10^4$", r"$10^5$"]
+                      )
 
     """Add Subplot Titles"""
 #     axs[0].set_title('Timeline')
@@ -275,8 +291,17 @@ for items in tde_delta_dates_with_i_value_list:
     """remove axes titles"""
     '''x axis removal'''
 #     axs[plot_index].axes.get_xaxis().set_visible(False) # removes x-labels for all
-    if plot_index < set_size-1: # removes x-labels for all but last row
-        axs[plot_index].axes.get_xaxis().set_visible(False)
+    if remainder_amount == 0:
+        if plot_index < num_subplots_per_page-1: # removes x-labels for all but last row
+            axs[plot_index].set_xticklabels([])
+        else:
+            if plot_index < remainder_amount-1:
+                axs[plot_index].set_xticklabels([])
+            if plot_index == remainder_amount-1:
+                plt.sca(axs[plot_index])
+                plt.xticks([0.75, 1,10,100,1e3,1e4,1e5]
+                           , [r"$0$",r"$1$" ,r"$10^1$", r"$10^2$", r"$10^3$", r"$10^4$", r"$10^5$"]
+                          )
     '''y axis removal'''
 #     axs[plot_index].axes.get_yaxis().set_visible(False) # removes y-labels for all
     if plot_index > 0:  # removes y-labels for all but first rows
@@ -286,9 +311,9 @@ for items in tde_delta_dates_with_i_value_list:
 #     fig.text(0, 0.01*plot_index, s=f"{tde_name}", fontsize=15)
 
     """plotting"""
-#     axs[plot_index].plot(x,y,f'{marker_color}|', markersize=20)  # for simple markers
-#     axs[plot_index].plot(x,y, color=f'{marker_color}', marker='$|$', markersize=10) # for string markers
-    axs[plot_index].scatter(x,y, s=300, color=f'{marker_color}', marker='$|$') # Scatter Plot version, s=size of markers
+#     axs[plot_index].plot(new_x,y,f'{marker_color}|', markersize=20)  # for simple markers
+#     axs[plot_index].plot(new_x,y, color=f'{marker_color}', marker='$|$', markersize=10) # for string markers
+    axs[plot_index].scatter(new_x,y, s=300, color=f'{marker_color}', marker='$|$') # Scatter Plot version, s=size of markers
 
 """""""""Post-Plotting Adjustments"""""""""
 '''Main Title'''
@@ -399,8 +424,11 @@ def tde_date_list_func(file_name_with_directory):
         delta_date = observation_date - file_tde_date  # difference between epoch and discovery dates
         delta_date = delta_date.days  # output from "# days, XX:XX:XX" to "#" of days
 
-        tde_dates.append(delta_date)
-        tde_dates_str.append(observation_date.isoformat())
+        ### REDONE (excludes dt's < 0)
+        if delta_date >= 0:
+            tde_dates.append(delta_date)
+            tde_dates_str.append(observation_date.isoformat())
+        ###
         
     return file_telescope_source_name, tde_dates
 
@@ -543,6 +571,14 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
 
             '''Define x,y variables to be plotted'''
             x = [int(date) for date in tde_delta_dates_2]
+            new_x = []
+            
+            for dt in x:
+                if dt==0:
+                    # print("dt=0")
+                    dt=0.75
+                new_x.append(dt)
+            # print(new_x)
 
             if file_telescope_source_name=="xmm":
                 y=[2]*len(tde_delta_dates_2)
@@ -556,6 +592,7 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
         #     y = [plot_subindex]*len(tde_delta_dates_2)
 
             """Set axes"""
+            axs[plot_index].set_xticks([0.75, 1,10,100,1e3,1e4,1e5])
         #     axs[plot_index].set_xticks([1,10,100,1000,10000], ['$10^0$', '$10^1$', '$10^2$', '$10^3$', '$10^4$'])
             axs[plot_index].set_xscale('log')
 
@@ -564,7 +601,7 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
             axs[0].set_yticklabels(['Swift','Chandra','XMM'])  # for first plot
 
             axs[plot_index].set_ylim(-.5,2.5)
-            axs[plot_index].set_xlim(1, 1e5)
+            axs[plot_index].set_xlim(0.75, 1e5)
 
             """Plot settings"""
             scale_factor = 2
@@ -577,6 +614,10 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
         #     plt.grid(True)
         #     if plot_subindex == 0:
         #         axs[plot_index].grid()
+        
+            plt.xticks([0.75, 1,10,100,1e3,1e4,1e5]
+                       , [r"$0$",r"$1$" ,r"$10^1$", r"$10^2$", r"$10^3$", r"$10^4$", r"$10^5$"]
+                      )
 
             """Add Subplot Titles"""
         #     axs[0].set_title('Timeline')
@@ -584,8 +625,12 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
 
             """add axes titles"""
             '''x axis title'''
-            axs[-1-remainder_amount].set_xlabel('$\Delta$ Date (days since discovery)'
-                                                , fontsize=17)  # labels only last plot
+            if remainder_amount==0:
+                axs[-1].set_xlabel('$\Delta$ Date (days since discovery)'
+                                                    , fontsize=17)  # labels only last plot
+            else:
+                axs[remainder_amount-1].set_xlabel('$\Delta$ Date (days since discovery)'
+                                                    , fontsize=17)  # labels only last plot
         #     axs[plot_index].set_xlabel('$\Delta$ Date (days since discovery)')  # labels all plots
             '''y axis title'''
         #     axs[plot_index].set_ylabel(f'{tde_name}',rotation=0)
@@ -593,9 +638,18 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
             """remove axes titles"""
             '''x axis removal'''
         #     axs[plot_index].axes.get_xaxis().set_visible(False) # removes x-labels for all
-            if plot_index < num_subplots_per_page-1 - remainder_amount: # removes x-labels for all but last row
-    #             axs[plot_index].axes.get_xaxis().set_visible(False)
-                axs[plot_index].set_xticklabels([])
+            if remainder_amount == 0:
+                if plot_index < num_subplots_per_page-1: # removes x-labels for all but last row
+        #             axs[plot_index].axes.get_xaxis().set_visible(False)
+                    axs[plot_index].set_xticklabels([])
+            else:
+                if plot_index < remainder_amount-1:
+                    axs[plot_index].set_xticklabels([])
+                if plot_index == remainder_amount-1:
+                    plt.sca(axs[plot_index])
+                    plt.xticks([0.75, 1,10,100,1e3,1e4,1e5]
+                       , [r"$0$",r"$1$" ,r"$10^1$", r"$10^2$", r"$10^3$", r"$10^4$", r"$10^5$"]
+                      )
             '''y axis removal'''
         #     axs[plot_index].axes.get_yaxis().set_visible(False) # removes y-labels for all
             if plot_index > 0:  # removes y-labels for all but first rows
@@ -607,9 +661,9 @@ for page_num in range(len(tde_delta_dates_with_i_value_list)//num_subplots_per_p
             
             
             """plotting"""
-        #     axs[plot_index].plot(x,y,f'{marker_color}|', markersize=20)  # for simple markers
-        #     axs[plot_index].plot(x,y, color=f'{marker_color}', marker='$|$', markersize=10) # for string markers
-            axs[plot_index].scatter(x,y, s=300, color=f'{marker_color}', marker='$|$') # Scatter Plot version, s=size of markers
+        #     axs[plot_index].plot(new_x,y,f'{marker_color}|', markersize=20)  # for simple markers
+        #     axs[plot_index].plot(new_x,y, color=f'{marker_color}', marker='$|$', markersize=10) # for string markers
+            axs[plot_index].scatter(new_x,y, s=300, color=f'{marker_color}', marker='$|$') # Scatter Plot version, s=size of markers
     
             """""""""Post-Plotting (after each x) Adjustments"""""""""
             '''Main Title'''
