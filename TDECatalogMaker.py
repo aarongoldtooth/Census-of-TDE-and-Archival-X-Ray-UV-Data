@@ -542,6 +542,8 @@ def Universal_Data_Reader(base_directory):
                                         2].strip() and xrt_exposure_time > float(
                                         observations_list[index].split(',')[1]):  # replaces old data if new data has greater exposure time
                                     observations_list[index] = f"{observation_id} ({xrt_exposure_time}, {observation_date}, {delta_date})"
+                        elif (not file_telescope_source_name == 'swift') and (xrt_exposure_time < 1000):
+                            print("~"*10 ,xrt_exposure_time, ' IS LESS THAN 1 ksec!!!!')
 
                     if observation_date < tde_date:  # Before
                         output_obsid_before_event += f"{observation_id}, "
